@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 import json
+import sys
 
 HEADERS = {
   "Access-Control-Allow-Origin": "*",
@@ -108,7 +109,41 @@ class Crawler:
         with open('otodom_listing.json', 'w', encoding='utf-8') as json_file:
            json.dump(listing_json, json_file, ensure_ascii=False ,indent=2)
 
+    def generate_url(self):
+        with open('otodom_settings.json') as f:
+            data = json.load(f)
+            url = data["base_url"] + "pl/wyniki"
+            
+            if data["only_for_sale"]:
+                url += "/sprzedaz"
+            
+            if data["only_for_rent"]:
+                url += "/wynajem"
+                url += "/" + data["property_type"] + "/"
+            if len(data["province"]) > 0:
+                url += data["province"] + "/" + data["city"] + "?"
+            else:
+                url += "cala-polska?"
+
+            url += "limit=36"
+
+            if len(data["price_min"]) > 0:
+                url += "&priceMin=" + data["price_min"]
+            
+            if len(data["price_max"]) > 0:
+                url += "&priceMax=" + data["price_max"]
+
+            url += "&by=LATEST&direction=DESC&viewType=listing"
+            # print("Generated link:\n", url)
+            return url
+      
 if __name__ == '__main__':
-  crawler = Crawler()
-  url = input("Enter url: ")
-  crawler.scrap_listings(url, check_all_pages=False)
+    crawler = Crawler()
+
+    if len(sys.argv) > 2 and sys.argv[1] == "-u":
+        print(sys.argv[2])
+        crawler.scrap_listings(sys.argv[2], check_all_pages=False)
+    else:
+        crawler.scrap_listings(crawler.generate_url(), check_all_pages=False)
+       
+

@@ -1,50 +1,194 @@
 [
   {
-    "url": "http://www.otodom.pl/pl/oferta/2-pokoje-bielany-ID4o5ph",
-    "otodom_id": "64846003",
-    "title": "2 pokoje Bielany",
+    "url": "http://www.otodom.pl/pl/oferta/woronicza-38-5m2-lux-metro-wierzbno-stary-mokotow-ID4n5K6",
+    "otodom_id": "64608966",
+    "title": "Woronicza 38,5m2 LUX Metro Wierzbno Stary Mokotów",
     "localization": {
       "province": " mazowieckie",
       "city": " Warszawa",
-      "district": " Bielany",
-      "street": "Słodowiec"
+      "district": " Wierzbno",
+      "street": "ul. Jana Pawła Woronicza"
     },
     "promoted": true,
-    "price": 640000,
+    "price": 879000,
+    "rooms": 1,
+    "area": 38,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-na-sprzedaz-wilanow-krolewski-41m2-ID4nd33",
+    "otodom_id": "64637049",
+    "title": "Mieszkanie na sprzedaż , Wilanów Królewski, 41m2",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Wilanów Królewski",
+      "street": "ul. Stanisława Kostki Potockiego"
+    },
+    "promoted": true,
+    "price": 829000,
+    "rooms": 1,
+    "area": 41,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/apartament-156m2-mokotow-stan-deweloperski-ID4nccw",
+    "otodom_id": "64633791",
+    "title": "Apartament 156m2 Mokotów, stan deweloperski",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Mokotów",
+      "street": "Stegny"
+    },
+    "promoted": true,
+    "price": 3400000,
+    "rooms": 4,
+    "area": 156,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokojowe-mieszkanie-45m2-wspolna-droga-ID4nIHK",
+    "otodom_id": "64758736",
+    "title": "2 pokojowe mieszkanie 45m2 Wspólna Droga",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Grochów",
+      "street": "ul. Wspólna Droga"
+    },
+    "promoted": false,
+    "price": 680000,
     "rooms": 2,
-    "area": 37,
+    "area": 45,
     "estate_agency": "prywatny"
   },
   {
-    "url": "http://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-67-3m2-wola-jana-kazimierza-ID4o3yM",
-    "otodom_id": "64838904",
-    "title": "3 pokojowe mieszkanie 67,3m2 Wola Jana Kazimierza",
+    "url": "http://www.otodom.pl/pl/oferta/nowe-3-pokoje-urzadzone-pod-klucz-garaz-ID4nCEC",
+    "otodom_id": "64735478",
+    "title": "Nowe, 3 pokoje, urządzone pod klucz! Garaż!",
     "localization": {
       "province": " mazowieckie",
       "city": " Warszawa",
-      "district": " Odolany",
-      "street": "ul. Jana Kazimierza"
+      "district": " Tarchomin",
+      "street": "ul. Modlińska"
     },
-    "promoted": true,
-    "price": 1360000,
+    "promoted": false,
+    "price": 850830,
     "rooms": 3,
-    "area": 67,
-    "estate_agency": "prywatny"
+    "area": 53,
+    "estate_agency": "biuro nieruchomości "
   },
   {
-    "url": "http://www.otodom.pl/pl/oferta/miasteczko-wilanow-okazja-ID4mn3F",
-    "otodom_id": "64437199",
-    "title": "Miasteczko Wilanów, okazja!!!",
+    "url": "http://www.otodom.pl/pl/oferta/nowe-4-pokoje-urzadzone-pod-klucz-garaz-ID4nIeX",
+    "otodom_id": "64756951",
+    "title": "Nowe, 4 pokoje, urządzone pod klucz! Garaż!",
     "localization": {
       "province": " mazowieckie",
       "city": " Warszawa",
-      "district": " Błonia Wilanowskie",
-      "street": "al. Aleja Wilanowska"
+      "district": " Tarchomin",
+      "street": "ul. Modlińska"
     },
-    "promoted": true,
-    "price": 1408000,
+    "promoted": false,
+    "price": 1146950,
+    "rooms": 4,
+    "area": 79,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/ustawne-2-pokoje-z-pieknym-widokiem-na-bialolece-ID4o77m",
+    "otodom_id": "64852580",
+    "title": "Ustawne 2 pokoje z pięknym widokiem na Białołęce!",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Nowodwory",
+      "street": "ul. Odkryta"
+    },
+    "promoted": false,
+    "price": 570000,
+    "rooms": 2,
+    "area": 43,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/warszawa-wlochy-kawalerka-cegla-sprzedaz-ID4mkc0",
+    "otodom_id": "64426184",
+    "title": "Warszawa Włochy Kawalerka Cegła Sprzedaż",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Okęcie",
+      "street": "ul. Marcina Flisa"
+    },
+    "promoted": false,
+    "price": 526000,
+    "rooms": 1,
+    "area": 35,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowy-penthouse-saska-kepa-wysokosc-w-salonie-6m-ID46Xnm",
+    "otodom_id": "60763556",
+    "title": "Nowy penthouse - Saska Kępa, wysokość w salonie 6m",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Saska Kępa",
+      "street": "ul. Międzynarodowa"
+    },
+    "promoted": false,
+    "price": 4270000,
+    "rooms": 7,
+    "area": 150,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pokoje-przy-elektrowni-powisle-ID4nDSp",
+    "otodom_id": "64740177",
+    "title": "3 pokoje przy Elektrowni Powiśle",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Powiśle",
+      "street": "ul. Dobra"
+    },
+    "promoted": false,
+    "price": 1350000,
     "rooms": 3,
-    "area": 89,
+    "area": 57,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/m-4-2-poziomowe-ogrod-200m2-miejsce-postojwe-ID4o76T",
+    "otodom_id": "64852551",
+    "title": "M-4 / 2-poziomowe / Ogród +200m2 /miejsce postojwe",
+    "localization": {
+      "province": "",
+      "city": " mazowieckie",
+      "district": "",
+      "street": "Piastów"
+    },
+    "promoted": false,
+    "price": 997000,
+    "rooms": 4,
+    "area": 122,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/gotowe-do-wprowadzenia-3pokojowe-mieszkanie-sielce-ID4o76F",
+    "otodom_id": "64852537",
+    "title": "Gotowe do wprowadzenia 3pokojowe mieszkanie Sielce",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Sielce",
+      "street": "ul. Jana Feliksa Piwarskiego"
+    },
+    "promoted": false,
+    "price": 745000,
+    "rooms": 3,
+    "area": 46,
     "estate_agency": "biuro nieruchomości "
   },
   {
@@ -398,149 +542,5 @@
     "rooms": 2,
     "area": 55,
     "estate_agency": "prywatny"
-  },
-  {
-    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-wykonczone-w-nowoczesnym-minimalizmie-ID4noCp",
-    "otodom_id": "64681525",
-    "title": "Mieszkanie wykończone w Nowoczesnym minimalizmie",
-    "localization": {
-      "province": " mazowieckie",
-      "city": " Warszawa",
-      "district": " Stare Włochy",
-      "street": "ul. Krańcowa"
-    },
-    "promoted": false,
-    "price": 1400000,
-    "rooms": 2,
-    "area": 56,
-    "estate_agency": "biuro nieruchomości "
-  },
-  {
-    "url": "http://www.otodom.pl/pl/oferta/4-pokojescisle-centrumkamienicametro-ID4o4MI",
-    "otodom_id": "64843612",
-    "title": "4 pokoje*Ścisłe centrum*Kamienica*Metro",
-    "localization": {
-      "province": " mazowieckie",
-      "city": " Warszawa",
-      "district": " Śródmieście Północne",
-      "street": "ul. Mazowiecka"
-    },
-    "promoted": false,
-    "price": 2499999,
-    "rooms": 4,
-    "area": 105,
-    "estate_agency": "biuro nieruchomości "
-  },
-  {
-    "url": "http://www.otodom.pl/pl/oferta/widokowe-mieszkanie-z-tarasem-przy-parku-ID4noCn",
-    "otodom_id": "64681523",
-    "title": "Widokowe mieszkanie z tarasem przy parku",
-    "localization": {
-      "province": " mazowieckie",
-      "city": " Warszawa",
-      "district": " Stare Włochy",
-      "street": "ul. Popularna"
-    },
-    "promoted": false,
-    "price": 995000,
-    "rooms": 2,
-    "area": 43,
-    "estate_agency": "biuro nieruchomości "
-  },
-  {
-    "url": "http://www.otodom.pl/pl/oferta/trzy-pokojowe-bliska-wola-balkon-piekny-widok-ID4o5sx",
-    "otodom_id": "64846205",
-    "title": "Trzy pokojowe, Bliska Wola, balkon, piękny widok",
-    "localization": {
-      "province": " mazowieckie",
-      "city": " Warszawa",
-      "district": " Odolany",
-      "street": "ul. Stańczyka"
-    },
-    "promoted": false,
-    "price": 1054860,
-    "rooms": 3,
-    "area": 47,
-    "estate_agency": "biuro nieruchomości "
-  },
-  {
-    "url": "http://www.otodom.pl/pl/oferta/park-morskie-oko-3-pokoje-55-mkw-taras-metro-ID4ngg4",
-    "otodom_id": "64649388",
-    "title": "Park Morskie Oko/ 3 pokoje + 55 mkw taras / metro",
-    "localization": {
-      "province": " mazowieckie",
-      "city": " Warszawa",
-      "district": " Mokotów",
-      "street": "Sielce"
-    },
-    "promoted": false,
-    "price": 1900000,
-    "rooms": 3,
-    "area": 69,
-    "estate_agency": "biuro nieruchomości "
-  },
-  {
-    "url": "http://www.otodom.pl/pl/oferta/apartament-w-wysokim-standardzie-urusus-skorosze-ID4o5uH",
-    "otodom_id": "64846339",
-    "title": "Apartament w wysokim standardzie Urusus Skorosze",
-    "localization": {
-      "province": " mazowieckie",
-      "city": " Warszawa",
-      "district": " Skorosze",
-      "street": "ul. Aleksandra Prystora"
-    },
-    "promoted": false,
-    "price": 799000,
-    "rooms": 3,
-    "area": 52,
-    "estate_agency": "biuro nieruchomości "
-  },
-  {
-    "url": "http://www.otodom.pl/pl/oferta/m3-20min-do-metra-kredyt2-blisko-s8-ID4o714",
-    "otodom_id": "64852190",
-    "title": "M3- 20min do Metra - Kredyt2% - blisko s8",
-    "localization": {
-      "province": " mazowieckie",
-      "city": " Warszawa",
-      "district": " Grodzisk",
-      "street": "ul. Lewandów"
-    },
-    "promoted": false,
-    "price": 570555,
-    "rooms": 3,
-    "area": 50,
-    "estate_agency": "biuro nieruchomości "
-  },
-  {
-    "url": "http://www.otodom.pl/pl/oferta/ostatnia-szansa-na-kredyt-2-zabytkowa-kamienica-ID4o03m",
-    "otodom_id": "64825424",
-    "title": "Ostatnia Szansa na Kredyt 2% - Zabytkowa Kamienica",
-    "localization": {
-      "province": " mazowieckie",
-      "city": " Warszawa",
-      "district": " Raków",
-      "street": "ul. Podborska"
-    },
-    "promoted": false,
-    "price": 745000,
-    "rooms": 2,
-    "area": 56,
-    "estate_agency": "biuro nieruchomości "
-  },
-  {
-    "url": "http://www.otodom.pl/pl/oferta/przestronna-kawalerka-z-balkonem-ID4nJ4J",
-    "otodom_id": "64760161",
-    "title": "Przestronna kawalerka z balkonem!",
-    "localization": {
-      "province": " mazowieckie",
-      "city": " Warszawa",
-      "district": " Białołęka",
-      "street": "Brzeziny"
-    },
-    "promoted": false,
-    "price": 420000,
-    "rooms": 1,
-    "area": 31,
-    "estate_agency": "biuro nieruchomości "
   }
 ]
