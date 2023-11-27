@@ -91,6 +91,7 @@ class Crawler:
           number_of_pages = max([int(num.text) for num in page_numeration])
 
         for page_number in range(1, number_of_pages + 1): 
+          print(page_number)
           listing_links = self.getLinks(url + "?page={}".format(page_number))
           # listing_links = self.getLinks(url)
           # promoted ads
