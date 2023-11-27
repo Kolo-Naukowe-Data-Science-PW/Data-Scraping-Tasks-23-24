@@ -1,0 +1,546 @@
+[
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokoje-bielany-ID4o5ph",
+    "otodom_id": "64846003",
+    "title": "2 pokoje Bielany",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Bielany",
+      "street": "Słodowiec"
+    },
+    "promoted": true,
+    "price": 640000,
+    "rooms": 2,
+    "area": 37,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-67-3m2-wola-jana-kazimierza-ID4o3yM",
+    "otodom_id": "64838904",
+    "title": "3 pokojowe mieszkanie 67,3m2 Wola Jana Kazimierza",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Odolany",
+      "street": "ul. Jana Kazimierza"
+    },
+    "promoted": true,
+    "price": 1360000,
+    "rooms": 3,
+    "area": 67,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/miasteczko-wilanow-okazja-ID4mn3F",
+    "otodom_id": "64437199",
+    "title": "Miasteczko Wilanów, okazja!!!",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Błonia Wilanowskie",
+      "street": "al. Aleja Wilanowska"
+    },
+    "promoted": true,
+    "price": 1408000,
+    "rooms": 3,
+    "area": 89,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/dwustronne-mieszkanie-blisko-kanalku-krolewskiego-ID4nYV5",
+    "otodom_id": "64821129",
+    "title": "Dwustronne mieszkanie blisko Kanałku Królewskiego",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Kobiałka",
+      "street": "ul. Żeglugi Wiślanej"
+    },
+    "promoted": false,
+    "price": 690000,
+    "rooms": 3,
+    "area": 66,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/fajna-inwestycja-pod-wynajem-na-pradze-ID4o76o",
+    "otodom_id": "64852520",
+    "title": "Fajna inwestycja pod wynajem na Pradze",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Praga-Południe",
+      "street": "Grochów"
+    },
+    "promoted": false,
+    "price": 874000,
+    "rooms": 5,
+    "area": 85,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-osiedlie-duza-loggia-9-2m2-do-wprowodzenia-ID4o76q",
+    "otodom_id": "64852522",
+    "title": "Nowe osiedlie! Duża Loggia 9,2m2! Do wprowodzenia!",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Białołęka",
+      "street": "Henryków"
+    },
+    "promoted": false,
+    "price": 650000,
+    "rooms": 2,
+    "area": 46,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/apartament-z-ogrodkiem-osiedle-azurowych-okiennic-ID4lBhE",
+    "otodom_id": "64253554",
+    "title": "Apartament z ogródkiem Osiedle Ażurowych Okiennic",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Stegny",
+      "street": "al. Aleja Wilanowska"
+    },
+    "promoted": false,
+    "price": 1850000,
+    "rooms": 4,
+    "area": 97,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/syndyk-sprzeda-udzial-4-6-w-sp-wl-prawie-do-lok-ID4nhLP",
+    "otodom_id": "64655201",
+    "title": "Syndyk sprzeda udział 4/6 w sp. wł. prawie do lok",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Grochów",
+      "street": "ul. Szaserów"
+    },
+    "promoted": false,
+    "price": 206000,
+    "rooms": 3,
+    "area": 52,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-w-kameralnym-budynku-na-natolinie-ID4nFDn",
+    "otodom_id": "64746933",
+    "title": "Mieszkanie w kameralnym budynku na Natolinie",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Natolin",
+      "street": "ul. Małej Łąki"
+    },
+    "promoted": false,
+    "price": 790000,
+    "rooms": 3,
+    "area": 63,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/sprzedam-dwupokojowe-mieszkanie-warszawa-bialolek-ID4nOSf",
+    "otodom_id": "64782451",
+    "title": "Sprzedam dwupokojowe mieszkanie Warszawa, Białołęk",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Białołęka",
+      "street": "Grodzisk"
+    },
+    "promoted": false,
+    "price": 735000,
+    "rooms": 2,
+    "area": 56,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-63-38-m-warszawa-ID4nf0T",
+    "otodom_id": "64644603",
+    "title": "Mieszkanie, 63,38 m², Warszawa",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Wola",
+      "street": "Nowolipki"
+    },
+    "promoted": false,
+    "price": 995000,
+    "rooms": 3,
+    "area": 63,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-49-87-m-warszawa-ID4nB1Q",
+    "otodom_id": "64729230",
+    "title": "Mieszkanie, 49,87 m², Warszawa",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Mokotów",
+      "street": "Sielce"
+    },
+    "promoted": false,
+    "price": 790000,
+    "rooms": 3,
+    "area": 49,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/ladne-2-pokoje-z-klimatyzacja-i-pieknym-widokiem-ID4o75g",
+    "otodom_id": "64852450",
+    "title": "Ładne 2 pokoje z klimatyzacją i pięknym widokiem!",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Nowodwory",
+      "street": "ul. Światowida"
+    },
+    "promoted": false,
+    "price": 647000,
+    "rooms": 2,
+    "area": 42,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokojowy-apartament-blisko-metra-65m2-ID4o75f",
+    "otodom_id": "64852449",
+    "title": "2-pokojowy apartament blisko metra, 65m2",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Targówek",
+      "street": "Bródno"
+    },
+    "promoted": false,
+    "price": 878000,
+    "rooms": 2,
+    "area": 65,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pokoje-balkon-piwnica-os-gorce-ul-lagowska-ID4o75a",
+    "otodom_id": "64852444",
+    "title": "3 pokoje, balkon, piwnica, os. Górce, ul. Łagowska",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Bemowo",
+      "street": "Górce"
+    },
+    "promoted": false,
+    "price": 980000,
+    "rooms": 3,
+    "area": 66,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/aleja-wilanowska-ID4o75b",
+    "otodom_id": "64852445",
+    "title": "Aleja Wilanowska",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Mokotów",
+      "street": "Stegny"
+    },
+    "promoted": false,
+    "price": 1300000,
+    "rooms": 2,
+    "area": 52,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/okazja-wyjatkowe-mieszkanie-saska-kepa-ID4nNPk",
+    "otodom_id": "64778426",
+    "title": "OKAZJA wyjątkowe mieszkanie | Saska Kępa",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Praga-Południe",
+      "street": "Saska Kępa"
+    },
+    "promoted": false,
+    "price": 500000,
+    "rooms": 2,
+    "area": 38,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-40-m-warszawa-ID4nsQY",
+    "otodom_id": "64697804",
+    "title": "Mieszkanie, 40 m², Warszawa",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Śródmieście",
+      "street": "Ujazdów"
+    },
+    "promoted": false,
+    "price": 996000,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/muranow-sloneczn4-pokoje-64-m2-loggia-metro-5-min-ID4mZ6a",
+    "otodom_id": "64583426",
+    "title": "Muranów/Słoneczn4 pokoje/64 m2/Loggia/Metro 5 min.",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Muranów",
+      "street": "ul. Józefa Lewartowskiego"
+    },
+    "promoted": false,
+    "price": 1588000,
+    "rooms": 4,
+    "area": 64,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/sloneczne-3-pokoje-64m2-widna-kuchnia-od-zaraz-ID4iYFe",
+    "otodom_id": "63628444",
+    "title": "Słoneczne 3 pokoje/64m2/Widna kuchnia/Od zaraz",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Ursus",
+      "street": "Skorosze"
+    },
+    "promoted": false,
+    "price": 727000,
+    "rooms": 3,
+    "area": 64,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/tarchomin-59-76m2-2-sypialnie-balkon-ID4nZcm",
+    "otodom_id": "64822138",
+    "title": "Tarchomin, 59,76m2, 2 sypialnie, balkon",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Tarchomin",
+      "street": "ul. Józefa Mehoffera"
+    },
+    "promoted": false,
+    "price": 844000,
+    "rooms": 3,
+    "area": 59,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/kawalerka-warszawa-brodno-ekstra-lokalizacja-ID4o748",
+    "otodom_id": "64852380",
+    "title": "Kawalerka Warszawa Bródno Ekstra Lokalizacja",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Targówek",
+      "street": "Bródno"
+    },
+    "promoted": false,
+    "price": 385000,
+    "rooms": 1,
+    "area": 27,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pokoje-wysoki-standard-wykonczenia-ID4o742",
+    "otodom_id": "64852374",
+    "title": "3 Pokoje | Wysoki standard wykończenia |",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Błonia Wilanowskie",
+      "street": "ul. Prymasa Augusta Hlonda"
+    },
+    "promoted": false,
+    "price": 2430000,
+    "rooms": 3,
+    "area": 107,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/apartament-premium-w-inwestycji-art-deco-taras-ID4o73A",
+    "otodom_id": "64852346",
+    "title": "Apartament Premium w inwestycji Art Deco + taras",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Czyste",
+      "street": "ul. Siedmiogrodzka"
+    },
+    "promoted": false,
+    "price": 1090000,
+    "rooms": 2,
+    "area": 37,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/apartament-srodmiescie-warszawy-ul-gorskiego-ID4l2pG",
+    "otodom_id": "64119512",
+    "title": "Apartament - Śródmieście Warszawy - ul. Górskiego",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Śródmieście Północne",
+      "street": "ul. Wojciecha Górskiego 6"
+    },
+    "promoted": false,
+    "price": 1990000,
+    "rooms": 2,
+    "area": 55,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-wykonczone-w-nowoczesnym-minimalizmie-ID4noCp",
+    "otodom_id": "64681525",
+    "title": "Mieszkanie wykończone w Nowoczesnym minimalizmie",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Stare Włochy",
+      "street": "ul. Krańcowa"
+    },
+    "promoted": false,
+    "price": 1400000,
+    "rooms": 2,
+    "area": 56,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/4-pokojescisle-centrumkamienicametro-ID4o4MI",
+    "otodom_id": "64843612",
+    "title": "4 pokoje*Ścisłe centrum*Kamienica*Metro",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Śródmieście Północne",
+      "street": "ul. Mazowiecka"
+    },
+    "promoted": false,
+    "price": 2499999,
+    "rooms": 4,
+    "area": 105,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/widokowe-mieszkanie-z-tarasem-przy-parku-ID4noCn",
+    "otodom_id": "64681523",
+    "title": "Widokowe mieszkanie z tarasem przy parku",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Stare Włochy",
+      "street": "ul. Popularna"
+    },
+    "promoted": false,
+    "price": 995000,
+    "rooms": 2,
+    "area": 43,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/trzy-pokojowe-bliska-wola-balkon-piekny-widok-ID4o5sx",
+    "otodom_id": "64846205",
+    "title": "Trzy pokojowe, Bliska Wola, balkon, piękny widok",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Odolany",
+      "street": "ul. Stańczyka"
+    },
+    "promoted": false,
+    "price": 1054860,
+    "rooms": 3,
+    "area": 47,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/park-morskie-oko-3-pokoje-55-mkw-taras-metro-ID4ngg4",
+    "otodom_id": "64649388",
+    "title": "Park Morskie Oko/ 3 pokoje + 55 mkw taras / metro",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Mokotów",
+      "street": "Sielce"
+    },
+    "promoted": false,
+    "price": 1900000,
+    "rooms": 3,
+    "area": 69,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/apartament-w-wysokim-standardzie-urusus-skorosze-ID4o5uH",
+    "otodom_id": "64846339",
+    "title": "Apartament w wysokim standardzie Urusus Skorosze",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Skorosze",
+      "street": "ul. Aleksandra Prystora"
+    },
+    "promoted": false,
+    "price": 799000,
+    "rooms": 3,
+    "area": 52,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/m3-20min-do-metra-kredyt2-blisko-s8-ID4o714",
+    "otodom_id": "64852190",
+    "title": "M3- 20min do Metra - Kredyt2% - blisko s8",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Grodzisk",
+      "street": "ul. Lewandów"
+    },
+    "promoted": false,
+    "price": 570555,
+    "rooms": 3,
+    "area": 50,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/ostatnia-szansa-na-kredyt-2-zabytkowa-kamienica-ID4o03m",
+    "otodom_id": "64825424",
+    "title": "Ostatnia Szansa na Kredyt 2% - Zabytkowa Kamienica",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Raków",
+      "street": "ul. Podborska"
+    },
+    "promoted": false,
+    "price": 745000,
+    "rooms": 2,
+    "area": 56,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/przestronna-kawalerka-z-balkonem-ID4nJ4J",
+    "otodom_id": "64760161",
+    "title": "Przestronna kawalerka z balkonem!",
+    "localization": {
+      "province": " mazowieckie",
+      "city": " Warszawa",
+      "district": " Białołęka",
+      "street": "Brzeziny"
+    },
+    "promoted": false,
+    "price": 420000,
+    "rooms": 1,
+    "area": 31,
+    "estate_agency": "biuro nieruchomości "
+  }
+]
