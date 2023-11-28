@@ -25,7 +25,7 @@ If something is missing you can leave the value as an empty string.
  The Bot should be able to iterate through all the listings pages. The listings should be again collected and the duplicates should be removed.
 ### Task 2
 
-Create a **settings.json** file. It should contain things which are going to define what bot is going to scrap. An example may look like: 
+Create a **settings.json** file. It should contain things which are going to define what bot is going to scrap. An example may look like:
 ```json
 {
 	"base_url": "str",
