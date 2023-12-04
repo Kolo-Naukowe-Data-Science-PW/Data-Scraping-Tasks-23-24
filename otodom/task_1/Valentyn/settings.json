@@ -1,0 +1,9 @@
+{
+	"base_url": "str",
+	"price_min": "str",
+	"price_max": "str",
+	"city": "str",
+	"property_type": "str",
+	"only_for_sale": "bool",
+	"only_for_rent": "bool"
+}
