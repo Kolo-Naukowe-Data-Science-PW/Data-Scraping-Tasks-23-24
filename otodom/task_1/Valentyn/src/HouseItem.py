@@ -7,7 +7,7 @@ class HouseItem:
     def __init__(self, url: str):
         self.dictionary = {
             "url": url,
-            "otodom_id": url[len(self.base_url) + 1 :],
+            "otodom_id": url[slice(len(self.base_url) + 1, None)],
             "price": None,
             "title": "",
             "rooms": None,

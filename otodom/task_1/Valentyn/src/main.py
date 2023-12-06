@@ -1,6 +1,6 @@
+import json
 from Scraper import Scraper
 from URLConstructor import URLConstructor
-import json
 
 
 target_url = URLConstructor.from_json()

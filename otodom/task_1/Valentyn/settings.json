@@ -4,7 +4,7 @@
 	"price_max": 5000,
 	"province" : "kujawsko-pomorskie",
 	"city": "torun",
-	"property_type": "kawalerka", 
+	"property_type": "kawalerka",
 	"sale_or_rent": "rent",
 	"_comments": {
         "property_type": "Can be: 'mieszkanie', 'kawalerka', 'dom', 'inwestycja', 'pokoj', 'dzialka', 'lokal', 'haleimagazyny', 'garaz'",
