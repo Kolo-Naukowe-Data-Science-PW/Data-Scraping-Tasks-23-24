@@ -23,7 +23,8 @@ class Scraper:
         last_page_elem = soup.select_one('nav[data-cy="pagination"] a:last-of-type')
         if last_page_elem is None:
             print("ERROR: no pagination found on the page")
-            return []
+            print("Trying to scrape 1st (the only) page...")
+            return self.get_page(1)
 
         scraped_pages = []
         max_page = int(last_page_elem.getText())
