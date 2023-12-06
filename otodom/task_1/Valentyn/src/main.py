@@ -1,4 +1,5 @@
 import json
+
 from Scraper import Scraper
 from URLConstructor import URLConstructor
 
