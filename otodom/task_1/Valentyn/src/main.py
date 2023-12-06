@@ -2,10 +2,10 @@ from Scraper import Scraper
 import json
 
 scraper = Scraper()
-houseItems = [i.toDictionary() for i in scraper.startScraping(limit=220)]
+house_items = [i.to_dictionary() for i in scraper.start_scraping(limit=220)]
 
 # Convert the list of dictionaries to a JSON string
-json_data = json.dumps(houseItems, indent=4)
+json_data = json.dumps(house_items, indent=4)
 
 # Write the JSON data to a file
 with open("data.json", "w") as file:

@@ -1,82 +1,87 @@
 import requests
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup
 from HouseItem import HouseItem
 
 
 class Scraper:
-    TARGET_URL = "https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/mazowieckie/warszawa/warszawa?limit=72"
+    TARGET_URL = (
+        "https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/mazowieckie/"
+        "warszawa/warszawa?limit=72"
+    )
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
+        " AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     }
 
     def __init__(self):
-        self.itemLinksVisited = []
+        self.item_links_visited = []
 
-    def startScraping(self, limit: int = 200) -> [HouseItem]:
+    def start_scraping(self, limit: int = 200) -> [HouseItem]:
         response = requests.get(self.TARGET_URL, headers=self.headers)
         if response.status_code // 100 != 2:
             print("ERROR: Could not load initial page")
             return []
 
         soup = BeautifulSoup(response.content, features="html.parser")
-        lastPageElem = soup.select_one('nav[data-cy="pagination"] a:last-of-type')
-        if lastPageElem is None:
+        last_page_elem = soup.select_one('nav[data-cy="pagination"] a:last-of-type')
+        if last_page_elem is None:
             print("ERROR: no pagination found on the page")
             return []
 
-        scrapedPages = []
-        maxPage = int(lastPageElem.getText())
-        for page in range(0, maxPage):
+        scraped_pages = []
+        max_page = int(last_page_elem.getText())
+        for page in range(0, max_page):
             print(f"> Start scraping page {page+1}...")
-            scrapedPages = scrapedPages + self.getPage(page + 1)
-            print(f"> Scraped {len(scrapedPages)} objects")
-            if len(scrapedPages) >= limit:
+            scraped_pages = scraped_pages + self.get_page(page + 1)
+            print(f"> Scraped {len(scraped_pages)} objects")
+            if len(scraped_pages) >= limit:
                 break
-        return scrapedPages
+        return scraped_pages
 
-    def getPage(self, page: int = 1) -> [HouseItem]:
+    def get_page(self, page: int = 1) -> [HouseItem]:
         response = requests.get(f"{self.TARGET_URL}&page={page}", headers=self.headers)
         if response.status_code // 100 != 2:
-            print(f"ERROR: could not load new page, status: {response.status_code}")
+            print(f"ERROR: couldnt load new page, status: {response.status_code}")
             return []
 
         soup = BeautifulSoup(response.content, features="html.parser")
-        linkElems = soup.select('a[href^="/pl/oferta/"]')
-        links = [elem.get("href") for elem in linkElems]
+        link_elems = soup.select('a[href^="/pl/oferta/"]')
+        links = [elem.get("href") for elem in link_elems]
 
-        linksFiltered = list(filter(self.filterRepeatedLinks, links))
-        self.itemLinksVisited.extend(linksFiltered)
-        return list(map(self.mapHouseItemLinks, linksFiltered))
+        links_filtered = list(filter(self.filter_repeated_links, links))
+        self.item_links_visited.extend(links_filtered)
+        return list(map(self.map_house_item_links, links_filtered))
 
-    def filterRepeatedLinks(self, suburl: str):
-        return suburl not in self.itemLinksVisited
+    def filter_repeated_links(self, suburl: str):
+        return suburl not in self.item_links_visited
 
-    def mapHouseItemLinks(self, suburl: str):
-        return self.scrapHouseItem(f"{HouseItem.base_url}{suburl}")
+    def map_house_item_links(self, suburl: str):
+        return self.scrap_house_item(f"{HouseItem.base_url}{suburl}")
 
-    def scrapHouseItem(self, url: str):
+    def scrap_house_item(self, url: str):
         response = requests.get(url, headers=self.headers)
         if response.status_code // 100 != 2:
-            print(f"ERROR: could not load item page, status: {response.status_code}")
+            print(f"ERROR: didnt load item page, status: {response.status_code}")
 
         soup = BeautifulSoup(response.content, features="html.parser")
-        titleElem = soup.select_one('h1[data-cy="adPageAdTitle"]')
-        title = titleElem.getText() if titleElem is not None else ""
-        priceElem = soup.select_one('[data-cy="adPageHeaderPrice"]')
-        price = priceElem.getText() if priceElem is not None else ""
-        areaElem = soup.select_one(
+        title_elem = soup.select_one('h1[data-cy="adPageAdTitle"]')
+        title = title_elem.getText() if title_elem else ""
+        price_elem = soup.select_one('[data-cy="adPageHeaderPrice"]')
+        price = price_elem.getText() if price_elem else ""
+        area_elem = soup.select_one(
             '[aria-label="Powierzchnia"] [data-testid="table-value-area"]'
         )
-        area = areaElem.getText() if areaElem is not None else ""
-        roomsElem = soup.select_one('[aria-label="Liczba pokoi"] a')
-        rooms = roomsElem.getText() if roomsElem is not None else ""
-        localElem = soup.select_one('a[href="#map"][aria-label="Adres"]')
-        localization = localElem.getText() if localElem is not None else ""
-        agencyElem = soup.select_one(
-            '[aria-label="Typ ogłoszeniodawcy"] [data-testid="table-value-advertiser_type"]'
+        area = area_elem.getText() if area_elem else ""
+        rooms_elem = soup.select_one('[aria-label="Liczba pokoi"] a')
+        rooms = rooms_elem.getText() if rooms_elem else ""
+        local_elem = soup.select_one('a[href="#map"][aria-label="Adres"]')
+        localization = local_elem.getText() if local_elem else ""
+        agency_elem = soup.select_one(
+            """[aria-label="Typ ogłoszeniodawcy"]
+             [data-testid="table-value-advertiser_type"]"""
         )
-        agency = agencyElem.getText() if agencyElem is not None else ""
+        agency = agency_elem.getText() if agency_elem else ""
 
-        item = HouseItem(url).setPrice(price).setTitle(title).setArea(area)
-        item.setLocalization(localization).setRooms(rooms).setEstateAgency(agency)
-        return item
+        item = HouseItem(url).set_price(price).set_title(title).set_area(area)
+        item.set_localization(localization).set_rooms(rooms)
+        return item.set_estate_agency(agency)

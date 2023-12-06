@@ -23,12 +23,12 @@ class HouseItem:
         }
 
     def convert_to_ascii(self, text):
-        normalized = unicodedata.normalize("NFKD", text.replace('ł', 'l'))
+        normalized = unicodedata.normalize("NFKD", text.replace("ł", "l"))
         ascii_text = normalized.encode("ascii", "ignore").decode("ascii")
         return ascii_text
 
-    def setPrice(self, priceStr: str):
-        clean_price = priceStr.strip().replace(" zł", "").replace(" ", "")
+    def set_price(self, price_str: str):
+        clean_price = price_str.strip().replace(" zł", "").replace(" ", "")
         try:
             converted_price = int(clean_price)
             self.dictionary["price"] = converted_price
@@ -37,38 +37,43 @@ class HouseItem:
         finally:
             return self
 
-    def setTitle(self, title: str):
+    def set_title(self, title: str):
         self.dictionary["title"] = self.convert_to_ascii(title)
         return self
 
-    def setArea(self, area: str):
-        cleanNumber = area.strip().split(" ")[0].replace(",", ".").replace("\xa0", "")
-        self.dictionary["area"] = int(float(cleanNumber)) if cleanNumber != "" else None
+    def set_area(self, area: str):
+        clean_number = area.strip().split(" ")[0]
+        clean_number = clean_number.replace(",", ".").replace("\xa0", "")
+        self.dictionary["area"] = (
+            int(float(clean_number)) if clean_number != "" else None
+        )
         return self
 
-    def setRooms(self, rooms: str):
-        self.dictionary["rooms"] = int(rooms) if (rooms.strip() != "") else None
+    def set_rooms(self, rooms: str):
+        self.dictionary["rooms"] = None
+        if rooms.strip() != "":
+            self.dictionary["rooms"] = int(rooms)
         return self
 
-    def setLocalization(self, address: str):
-        addressList = address.split(", ")
-        if len(addressList) >= 5:
-            street = self.convert_to_ascii(addressList[-5])
+    def set_localization(self, address: str):
+        address_list = address.split(", ")
+        if len(address_list) >= 5:
+            street = self.convert_to_ascii(address_list[-5])
             self.dictionary["localization"]["street"] = street
-        if len(addressList) >= 4:
-            district = self.convert_to_ascii(addressList[-3])
+        if len(address_list) >= 4:
+            district = self.convert_to_ascii(address_list[-3])
             self.dictionary["localization"]["district"] = district
-        if len(addressList) >= 3:
-            city = self.convert_to_ascii(addressList[-2])
+        if len(address_list) >= 3:
+            city = self.convert_to_ascii(address_list[-2])
             self.dictionary["localization"]["city"] = city
-        if len(addressList) >= 1:
-            province = self.convert_to_ascii(addressList[-1])
+        if len(address_list) >= 1:
+            province = self.convert_to_ascii(address_list[-1])
             self.dictionary["localization"]["province"] = province
         return self
 
-    def setEstateAgency(self, agency: str):
+    def set_estate_agency(self, agency: str):
         self.dictionary["estate_agency"] = self.convert_to_ascii(agency)
         return self
 
-    def toDictionary(self):
+    def to_dictionary(self):
         return self.dictionary
