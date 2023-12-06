@@ -4,16 +4,13 @@ from HouseItem import HouseItem
 
 
 class Scraper:
-    TARGET_URL = (
-        "https://www.otodom.pl/pl/wyniki/sprzedaz/mieszkanie/mazowieckie/"
-        "warszawa/warszawa?limit=72"
-    )
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
         " AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
     }
 
-    def __init__(self):
+    def __init__(self, url):
+        self.TARGET_URL = url
         self.item_links_visited = []
 
     def start_scraping(self, limit: int = 200) -> [HouseItem]:
