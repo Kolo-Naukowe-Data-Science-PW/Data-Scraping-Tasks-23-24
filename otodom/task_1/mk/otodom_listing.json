@@ -1,0 +1,2338 @@
+[
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokojowe-mieszkanie-na-jana-kazimierza-na-woli-ID47fhs",
+    "otodom_id": "60832382",
+    "title": "2 pokojowe mieszkanie na Jana Kazimierza na Woli",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Odolany",
+      "street": "ul. Jana Kazimierza 66"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 2,
+    "area": 43,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokoje-38m2-przy-metrze-mlociny-ID4735j",
+    "otodom_id": "60785501",
+    "title": "2 pokoje 38m2 przy Metrze Młociny",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wawrzyszew",
+      "street": "ul. Jana Kasprowicza"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 2,
+    "area": 38,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bemowo-2-pokoje-40m2-ID44ELG",
+    "otodom_id": "60215372",
+    "title": "Bemowo 2 pokoje 40m2",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Bemowo-Lotnisko",
+      "street": "ul. Powstańców Śląskich"
+    },
+    "promoted_urls": true,
+    "price": 2750,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowoczesne-mieszkanie-na-woli-ID4oeL3",
+    "otodom_id": "64881949",
+    "title": "Nowoczesne mieszkanie na Woli!",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mirów",
+      "street": "ul. Łucka"
+    },
+    "promoted_urls": false,
+    "price": 6400,
+    "rooms": 3,
+    "area": 69,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-60-2-m2-sarmacka-ID4oeKX",
+    "otodom_id": "64881943",
+    "title": "3-pokojowe mieszkanie 60,2 m2 Sarmacka",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Błonia Wilanowskie",
+      "street": "ul. Sarmacka"
+    },
+    "promoted_urls": false,
+    "price": 6000,
+    "rooms": 3,
+    "area": 60,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/kawalerka-ul-grzybowska-30-ID4oeKs",
+    "otodom_id": "64881912",
+    "title": "Kawalerka ul. Grzybowska 30",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mirów",
+      "street": "ul. Grzybowska"
+    },
+    "promoted_urls": false,
+    "price": 2500,
+    "rooms": 1,
+    "area": 28,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokoje-przy-rondzie-wiatraczna-bez-prowizji-ID4oeJT",
+    "otodom_id": "64881877",
+    "title": "2 pokoje przy Rondzie Wiatraczna - Bez prowizji",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Grochów",
+      "street": "ul. 1 Praskiego Pułku WP"
+    },
+    "promoted_urls": false,
+    "price": 2790,
+    "rooms": 2,
+    "area": 47,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pok-50m2-metro-ID4oeJe",
+    "otodom_id": "64881836",
+    "title": "2 pok. 50m2! Metro!",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Służew",
+      "street": "ul. Niedźwiedzia"
+    },
+    "promoted_urls": false,
+    "price": 4200,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/m2-garaz-przy-metrze-ratusz-bemowo-bez-prowizji-ID4oeJc",
+    "otodom_id": "64881834",
+    "title": "M2 garaż przy Metrze Ratusz Bemowo - Bez prowizji",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Górce",
+      "street": "ul. Górczewska"
+    },
+    "promoted_urls": false,
+    "price": 3290,
+    "rooms": 2,
+    "area": 45,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-na-ochocie-ID4oeJ5",
+    "otodom_id": "64881827",
+    "title": "4-pokojowe mieszkanie na Ochocie",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Rakowiec",
+      "street": "ul. Pruszkowska"
+    },
+    "promoted_urls": false,
+    "price": 9900,
+    "rooms": 4,
+    "area": 86,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-warszawa-ursus-czechowice-ID4oeJ4",
+    "otodom_id": "64881826",
+    "title": "Mieszkanie - Warszawa Ursus Czechowice",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Szamoty",
+      "street": "Kompanii AK \"Goplana\""
+    },
+    "promoted_urls": false,
+    "price": 4000,
+    "rooms": 3,
+    "area": 50,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3pokoje-osobna-kuchnia-dalsza-saska-kepa-ID4oeIB",
+    "otodom_id": "64881797",
+    "title": "3Pokoje, Osobna Kuchnia - dalsza Saska Kępa!",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Saska Kępa",
+      "street": "ul. Marokańska"
+    },
+    "promoted_urls": false,
+    "price": 3500,
+    "rooms": 3,
+    "area": 84,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/piekne-2-pokoje-w-scislym-centrum-ul-graniczna-4-ID4oeG7",
+    "otodom_id": "64881643",
+    "title": "Piękne 2 Pokoje w ścisłym CENTRUM/ul.Graniczna 4",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście",
+      "street": "Śródmieście Północne"
+    },
+    "promoted_urls": false,
+    "price": 3000,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/atrakcyjne-mieszkanie-dla-pary-ID4oeEt",
+    "otodom_id": "64881541",
+    "title": "Atrakcyjne mieszkanie dla pary",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Grochów",
+      "street": "ul. Grochowska"
+    },
+    "promoted_urls": false,
+    "price": 3000,
+    "rooms": 2,
+    "area": 34,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-warszawa-bemowo-ID4oeEr",
+    "otodom_id": "64881539",
+    "title": "Mieszkanie - Warszawa Bemowo",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Jelonki Południowe",
+      "street": "ul. Sternicza"
+    },
+    "promoted_urls": false,
+    "price": 3900,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/luksusowy-apartament-po-kapitalnym-remoncie-ID4oeEn",
+    "otodom_id": "64881535",
+    "title": "Luksusowy Apartament po Kapitalnym Remoncie",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wyględów",
+      "street": "ul. Szyprów"
+    },
+    "promoted_urls": false,
+    "price": 14000,
+    "rooms": 3,
+    "area": 135,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-warszawa-wola-ID4oeEl",
+    "otodom_id": "64881533",
+    "title": "Mieszkanie - Warszawa Wola",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Powązki",
+      "street": "ul. Kolska"
+    },
+    "promoted_urls": false,
+    "price": 4000,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-warszawa-wola-ID4oeEj",
+    "otodom_id": "64881531",
+    "title": "Mieszkanie - Warszawa Wola",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Nowolipki",
+      "street": "ul. Okopowa"
+    },
+    "promoted_urls": false,
+    "price": 3700,
+    "rooms": 2,
+    "area": 46,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/komfortowe-3-pokojowe-mieszkanie-z-ogrodem-ID4oeDP",
+    "otodom_id": "64881501",
+    "title": "Komfortowe 3-pokojowe mieszkanie || z ogrodem",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Odolany",
+      "street": "ul. Jana Kazimierza"
+    },
+    "promoted_urls": false,
+    "price": 4750,
+    "rooms": 3,
+    "area": 57,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/wola-3-pokojowe-z-2-ogrodkami-ID4oeDF",
+    "otodom_id": "64881491",
+    "title": "Wola 3 pokojowe z 2 ogródkami",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wola",
+      "street": "Ulrychów"
+    },
+    "promoted_urls": false,
+    "price": 6000,
+    "rooms": 3,
+    "area": 63,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-przy-al-solidarnosci-ID4oeD5",
+    "otodom_id": "64881455",
+    "title": "3 pokojowe mieszkanie przy Al. Solidarności",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście Północne",
+      "street": "al. Aleja \"Solidarności\""
+    },
+    "promoted_urls": false,
+    "price": 3700,
+    "rooms": 3,
+    "area": 81,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-3-pokojowe-mieszkanie-ID4oeD1",
+    "otodom_id": "64881451",
+    "title": "Nowe 3-pokojowe mieszkanie",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Falenica",
+      "street": "Poematu"
+    },
+    "promoted_urls": false,
+    "price": 4000,
+    "rooms": 3,
+    "area": 55,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokojowe-mieszkanie-piekne-browary-warszawskie-ID4oeCX",
+    "otodom_id": "64881447",
+    "title": "2 pokojowe mieszkanie Piękne Browary Warszawskie",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mirów",
+      "street": "ul. Krochmalna"
+    },
+    "promoted_urls": false,
+    "price": 5500,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-36-m-warszawa-ID4oeC3",
+    "otodom_id": "64881391",
+    "title": "Mieszkanie, 36 m², Warszawa",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Powiśle",
+      "street": "ul. Lipowa"
+    },
+    "promoted_urls": false,
+    "price": 3500,
+    "rooms": 2,
+    "area": 36,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-przy-ul-jagiellonskiej-warszawa-ID4oeBz",
+    "otodom_id": "64881361",
+    "title": "Mieszkanie przy ul Jagiellońskiej Warszawa",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Pelcowizna",
+      "street": "ul. Jagiellońska"
+    },
+    "promoted_urls": false,
+    "price": 3900,
+    "rooms": 2,
+    "area": 47,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/dwa-pokoje-z-tarasem-swietne-dla-pary-ID4oeBx",
+    "otodom_id": "64881359",
+    "title": "Dwa pokoje z tarasem, świetne dla pary",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Żerań",
+      "street": "ul. Krzyżówki"
+    },
+    "promoted_urls": false,
+    "price": 3300,
+    "rooms": 2,
+    "area": 65,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/wyjatkowo-piekne-mieszkanie-al-ken-ID4oeBl",
+    "otodom_id": "64881347",
+    "title": "Wyjątkowo piękne mieszkanie, Al. KEN",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Ursynów Północny",
+      "street": "al. Aleja Komisji Edukacji Narodowej"
+    },
+    "promoted_urls": false,
+    "price": 3500,
+    "rooms": 2,
+    "area": 41,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokojowe-mokotow-garaz-balkon-ID4oaNS",
+    "otodom_id": "64866748",
+    "title": "2-pokojowe, Mokotów. Garaż, balkon. Арендовать",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mokotów",
+      "street": "Wierzbno"
+    },
+    "promoted_urls": true,
+    "price": 3700,
+    "rooms": 2,
+    "area": 45,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/reprezentacyjny-lokal-w-willi-na-starym-mokotowie-ID4o8ZX",
+    "otodom_id": "64859809",
+    "title": "Reprezentacyjny lokal w willi na Starym Mokotowie",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mokotów",
+      "street": "Stary Mokotów"
+    },
+    "promoted_urls": true,
+    "price": 12000,
+    "rooms": 6,
+    "area": 150,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/penthouse-z-widokiem-na-centrum-warszawy-ID4nZO8",
+    "otodom_id": "64824480",
+    "title": "Penthouse z widokiem na centrum Warszawy",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Solec",
+      "street": "ul. Dobra"
+    },
+    "promoted_urls": true,
+    "price": 9900,
+    "rooms": 5,
+    "area": 130,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-trzy-pokojowe-na-wynajem-ID4o7cq",
+    "otodom_id": "64852894",
+    "title": "Mieszkanie trzy pokojowe na wynajem",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Służew",
+      "street": "ul. Orzycka"
+    },
+    "promoted_urls": true,
+    "price": 3800,
+    "rooms": 3,
+    "area": 57,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-mieszkanie-bemowo-2-pokoje-metro-bemowo-ID4nK1i",
+    "otodom_id": "64763792",
+    "title": "Nowe mieszkanie Bemowo 2 pokoje Metro Bemowo",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Bemowo",
+      "street": "Górce"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 2,
+    "area": 38,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/postepu-10-mokotow-mordor-kawalerka-studio-ID45lpZ",
+    "otodom_id": "60379319",
+    "title": "POSTEPU 10, Mokotow, Mordor, Kawalerka, Studio",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Służewiec",
+      "street": "ul. Postępu"
+    },
+    "promoted_urls": true,
+    "price": 2500,
+    "rooms": 1,
+    "area": 25,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bezposrednio-mokotow-metro-dwa-pokoje-garaz-basen-ID4oaeZ",
+    "otodom_id": "64864585",
+    "title": "Bezpośrednio Mokotów metro dwa pokoje garaż basen",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mokotów",
+      "street": "Wierzbno"
+    },
+    "promoted_urls": true,
+    "price": 3550,
+    "rooms": 2,
+    "area": 49,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/wynajme-mieszkanie-63m-metro-targowek-mieszkaniow-ID4nhNX",
+    "otodom_id": "64655333",
+    "title": "Wynajmę mieszkanie 63m Metro Targówek Mieszkaniow",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Targówek Mieszkaniowy",
+      "street": "ul. Goławicka"
+    },
+    "promoted_urls": true,
+    "price": 4500,
+    "rooms": 3,
+    "area": 63,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/umeblowane-mieszkanie-na-grochowie-ID49lc5",
+    "otodom_id": "61331769",
+    "title": "Umeblowane mieszkanie na Grochowie",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Grochów",
+      "street": "ul. Grochowska"
+    },
+    "promoted_urls": true,
+    "price": 2600,
+    "rooms": 2,
+    "area": 45,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/luksusowy-apartament-z-tarasem-bez-posrednikow-ID4oaV0",
+    "otodom_id": "64867252",
+    "title": "Luksusowy apartament z tarasem bez pośredników",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Czyste",
+      "street": "ul. Kolejowa"
+    },
+    "promoted_urls": true,
+    "price": 13700,
+    "rooms": 4,
+    "area": 106,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/jasne-i-ciche-mieszkanie-2-pokoje-stara-ochota-ID4o6b9",
+    "otodom_id": "64848971",
+    "title": "Jasne i ciche mieszkanie, 2 pokoje, Stara Ochota",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stara Ochota",
+      "street": "ul. Kaliska"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 2,
+    "area": 47,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/apartament-2-pokojowy-grzybowska-kolejowa-ID4aFsS",
+    "otodom_id": "61648018",
+    "title": "Apartament 2 pokojowy Grzybowska/Kolejowa",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Czyste",
+      "street": "ul. Kolejowa"
+    },
+    "promoted_urls": true,
+    "price": 4500,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-apartamenty-wynalazek-3b-mokotow-sluzewiec-ID4o7t2",
+    "otodom_id": "64853924",
+    "title": "Nowe apartamenty WYNALAZEK 3B , Mokotów Służewiec",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mokotów",
+      "street": "Służewiec"
+    },
+    "promoted_urls": true,
+    "price": 4700,
+    "rooms": 3,
+    "area": 50,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/apartament-z-tarasem-i-widokiem-blisko-centrum-ID4nDa8",
+    "otodom_id": "64737432",
+    "title": "Apartament z tarasem i widokiem blisko centrum!",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Służew",
+      "street": "ul. Bokserska"
+    },
+    "promoted_urls": true,
+    "price": 7800,
+    "rooms": 3,
+    "area": 70,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-2-pokojowe-warszawa-wola-ID4cyAa",
+    "otodom_id": "62098218",
+    "title": "Mieszkanie 2 pokojowe, Warszawa Wola",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Młynów",
+      "street": "ul. Leszno"
+    },
+    "promoted_urls": true,
+    "price": 2500,
+    "rooms": 2,
+    "area": 48,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokoje-zoliborz-artystyczny-od-stycznia-ID4o7bD",
+    "otodom_id": "64852845",
+    "title": "2 pokoje | Żoliborz Artystyczny | od stycznia",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Żoliborz",
+      "street": "Sady Żoliborskie"
+    },
+    "promoted_urls": true,
+    "price": 4000,
+    "rooms": 2,
+    "area": 42,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pokoje-przy-parku-szczesliwickim-ID4lPXI",
+    "otodom_id": "64309978",
+    "title": "3 pokoje przy Parku Szczęśliwickim",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Szczęśliwice",
+      "street": "ul. Włodarzewska"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 3,
+    "area": 85,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/zeromskiego-1-metro-slodowiec-bezposrednio-ID3A6eP",
+    "otodom_id": "52932799",
+    "title": "Żeromskiego 1,Metro Słodowiec, Bezpośrednio",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Słodowiec",
+      "street": "ul. Stefana Żeromskiego 1"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 2,
+    "area": 37,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/woloska-stary-mokotow-2-pokojowe-mieszkanie-po-ID4oaJY",
+    "otodom_id": "64866506",
+    "title": "Wołoska, Stary Mokotów - 2-pokojowe mieszkanie po",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stary Mokotów",
+      "street": "ul. Wołoska"
+    },
+    "promoted_urls": true,
+    "price": 2800,
+    "rooms": 2,
+    "area": 44,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/przytulne-nowe-mieszkanie-na-woli-guminska-3a-ID4jCVj",
+    "otodom_id": "63783263",
+    "title": "Przytulne nowe Mieszkanie na Woli - Gumińska 3A",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Ulrychów",
+      "street": "GUMIŃSKA 3A"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 1,
+    "area": 30,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/brand-new-2022-app-3rooms-air-con-metro-fully-eq-ID4mdRo",
+    "otodom_id": "64401842",
+    "title": "Brand new 2022 app 3rooms air con, metro, fully eq",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Słodowiec",
+      "street": "ul. Stefana Żeromskiego"
+    },
+    "promoted_urls": true,
+    "price": 4999,
+    "rooms": 3,
+    "area": 58,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/elegancki-apartament-w-srodmiesciu-ul-zlota-ID4g7lZ",
+    "otodom_id": "62946863",
+    "title": "Elegancki apartament w Śródmieściu - ul. Złota",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście Północne",
+      "street": "ul. Złota 75a"
+    },
+    "promoted_urls": true,
+    "price": 5500,
+    "rooms": 2,
+    "area": 43,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/piekne-mieszkanie-w-zielonej-okolicy-ID3jv9I",
+    "otodom_id": "48980850",
+    "title": "Piękne mieszkanie w zielonej okolicy",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stare Włochy",
+      "street": "ul. Mikołajska"
+    },
+    "promoted_urls": true,
+    "price": 3500,
+    "rooms": 2,
+    "area": 55,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-2-pokojowe-bielany-przy-stacji-metra-ID4o8HU",
+    "otodom_id": "64858690",
+    "title": "Mieszkanie 2 pokojowe Bielany przy stacji metra",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wrzeciono",
+      "street": "ul. Wrzeciono"
+    },
+    "promoted_urls": true,
+    "price": 2900,
+    "rooms": 2,
+    "area": 38,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/warszawa-bemowo-3-pokoje-77m2-garaz-komorka-ID4nJX7",
+    "otodom_id": "64763533",
+    "title": "Warszawa Bemowo, 3 pokoje 77m2, garaż + komórka",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Groty",
+      "street": "ul. Antoniego Kocjana"
+    },
+    "promoted_urls": true,
+    "price": 4800,
+    "rooms": 3,
+    "area": 77,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-mieszkanie-3-pokojowe-blisko-metra-mlociny-ID4o5C2",
+    "otodom_id": "64846794",
+    "title": "Nowe mieszkanie 3 pokojowe blisko Metra Młociny !",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Bielany",
+      "street": "Huta"
+    },
+    "promoted_urls": true,
+    "price": 4700,
+    "rooms": 3,
+    "area": 53,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/duzy-salon-z-sypialnia-i-lazienka-idealne-dla-pary-ID4epT8",
+    "otodom_id": "62541454",
+    "title": "Duży salon z sypialnią i łazienką idealne dla pary",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Koło",
+      "street": "ul. Obozowa"
+    },
+    "promoted_urls": true,
+    "price": 2900,
+    "rooms": 2,
+    "area": 32,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pokojowe-mieszkanie-sadyba-wilanow-77m2-garaz-ID4o8jF",
+    "otodom_id": "64857187",
+    "title": "3- pokojowe mieszkanie Sadyba/Wilanów, 77m2, garaż",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wilanów",
+      "street": "Wilanów Niski"
+    },
+    "promoted_urls": true,
+    "price": 4200,
+    "rooms": 3,
+    "area": 77,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/kawalerka-na-wynajem-ID4o7iF",
+    "otodom_id": "64853281",
+    "title": "Kawalerka na wynajem",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Gocławek",
+      "street": "ul. Stanisława Żółkiewskiego"
+    },
+    "promoted_urls": true,
+    "price": 2500,
+    "rooms": 1,
+    "area": 33,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokojowe-mieszkanie-ul-goclawska-ID4o5xY",
+    "otodom_id": "64846542",
+    "title": "2 pokojowe mieszkanie, ul Gocławska",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Kamionek",
+      "street": "ul. Gocławska"
+    },
+    "promoted_urls": true,
+    "price": 3500,
+    "rooms": 2,
+    "area": 52,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-stare-bielany-40-m2-ID4o6E4",
+    "otodom_id": "64850764",
+    "title": "Mieszkanie do wynajęcia Stare Bielany, 40 m2",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Słodowiec",
+      "street": "ul. Stefana Żeromskiego"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-3-pokojowe-mieszkanie-do-wynajecia-ID4o5YT",
+    "otodom_id": "64848211",
+    "title": "Nowe 3 pokojowe mieszkanie do wynajęcia",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Grodzisk",
+      "street": "ul. Kąty Grodziskie"
+    },
+    "promoted_urls": true,
+    "price": 3800,
+    "rooms": 3,
+    "area": 56,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pokojowe-dzialdowska-8a-nowe-ID4mHvx",
+    "otodom_id": "64515869",
+    "title": "3 pokojowe Działdowska 8A nowe",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście",
+      "street": "Śródmieście Północne"
+    },
+    "promoted_urls": true,
+    "price": 5700,
+    "rooms": 3,
+    "area": 79,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/kawalerka-pokoj-z-kuchnia-po-remoncie-brodno-ID4nJ6o",
+    "otodom_id": "64760264",
+    "title": "Kawalerka/ Pokój z kuchnią, po remoncie, Bródno",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Bródno",
+      "street": "ul. Goworowska"
+    },
+    "promoted_urls": true,
+    "price": 2400,
+    "rooms": 1,
+    "area": 31,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bezposrednio-40-m-kw-warszawa-mokotow-ID45AC0",
+    "otodom_id": "60437724",
+    "title": "Bezpośrednio 40 m/kw Warszawa Mokotów",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Służewiec",
+      "street": "ul. Cybernetyki 2C"
+    },
+    "promoted_urls": true,
+    "price": 4200,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/atrakcyjna-kawalerka-na-mokotowie-30-m2-ID44k0z",
+    "otodom_id": "60135571",
+    "title": "Atrakcyjna kawalerka na Mokotowie – 30 m2",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wyględów",
+      "street": "ul. Bełska"
+    },
+    "promoted_urls": true,
+    "price": 2400,
+    "rooms": 1,
+    "area": 30,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-blisko-centrum-na-wynajem-od-stycznia-ID4mzDR",
+    "otodom_id": "64485571",
+    "title": "Mieszkanie blisko centrum na wynajem OD STYCZNIA",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wola",
+      "street": "Odolany"
+    },
+    "promoted_urls": true,
+    "price": 3600,
+    "rooms": 2,
+    "area": 42,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-mieszkanie-na-bemowie-ul-szeligowska-53-ID47A1S",
+    "otodom_id": "60912140",
+    "title": "nowe mieszkanie na Bemowie, ul. Szeligowska 53",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Chrzanów",
+      "street": "ul. Szeligowska"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 2,
+    "area": 37,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/dwupokojowe-mieszkanie-na-warszawskiej-woli-ID4o9mV",
+    "otodom_id": "64861234",
+    "title": "Dwupokojowe Mieszkanie na Warszawskiej Woli",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście",
+      "street": "Śródmieście Północne"
+    },
+    "promoted_urls": true,
+    "price": 3400,
+    "rooms": 2,
+    "area": 36,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowoczesne-mieszkanie-25m-garaz-modern-space-nowe-ID4nILh",
+    "otodom_id": "64758955",
+    "title": "Nowoczesne mieszkanie 25m garaż Modern Space NOWE",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stare Włochy",
+      "street": "Wiktoryn 6"
+    },
+    "promoted_urls": true,
+    "price": 3100,
+    "rooms": 1,
+    "area": 25,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/przytulne-mieszkanie-na-sadach-zoliborskich-ID4jDfg",
+    "otodom_id": "63784438",
+    "title": "Przytulne mieszkanie na Sadach Żoliborskich",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Żoliborz",
+      "street": "Sady Żoliborskie"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/do-wynajecia-kawalerka-na-stegnach-ID4ob37",
+    "otodom_id": "64867693",
+    "title": "Do wynajęcia kawalerka na Stegnach",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stegny",
+      "street": "ul. Portofino"
+    },
+    "promoted_urls": true,
+    "price": 2700,
+    "rooms": 1,
+    "area": 31,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/blisko-lazienek-ID4o7Xt",
+    "otodom_id": "64855811",
+    "title": "blisko Łazienek",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mokotów",
+      "street": "Sielce"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowy-apartament-2-pokojowy-z-osobna-kuchnia-ID4o7wn",
+    "otodom_id": "64854069",
+    "title": "NOWY Apartament 2 pokojowy z osobną kuchnią",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wyczółki",
+      "street": "ul. Nowy Służewiec"
+    },
+    "promoted_urls": true,
+    "price": 4700,
+    "rooms": 2,
+    "area": 51,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/wola-19-dzielnica-3-pokoje-ID4o8tK",
+    "otodom_id": "64857812",
+    "title": "Wola, 19 Dzielnica, 3 pokoje",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wola",
+      "street": "Ulrychów"
+    },
+    "promoted_urls": true,
+    "price": 6800,
+    "rooms": 3,
+    "area": 62,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/centrum-warszawy-przy-parku-saskim-ID4o7U0",
+    "otodom_id": "64855596",
+    "title": "Centrum Warszawy, przy Parku Saskim",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście",
+      "street": "Śródmieście Północne"
+    },
+    "promoted_urls": true,
+    "price": 2500,
+    "rooms": 1,
+    "area": 28,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bezposrednio-2-pok-mieszkanie-z-garazem-bemowo-ID4o9Dw",
+    "otodom_id": "64862261",
+    "title": "Bezpośrednio 2-pok. mieszkanie z Garażem Bemowo",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Górce",
+      "street": "ul. Świetlików"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 2,
+    "area": 37,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/3-pok-ursynow-bezposrednio-ogrodek-ul-makolagwy-ID4neyp",
+    "otodom_id": "64642837",
+    "title": "3 pok Ursynów Bezpośrednio ogródek ul. Makolągwy",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stary Imielin",
+      "street": "ul. Makolągwy"
+    },
+    "promoted_urls": true,
+    "price": 4500,
+    "rooms": 3,
+    "area": 70,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/ursynow-mieszkanie-z-ogrodkiem-ID3TgRK",
+    "otodom_id": "57501884",
+    "title": "Ursynów- mieszkanie z ogródkiem",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Natolin",
+      "street": "ul. Stryjeńskich"
+    },
+    "promoted_urls": true,
+    "price": 3900,
+    "rooms": 2,
+    "area": 54,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/apartament-warszawa-mokotow-przy-sgh-ID4o9MO",
+    "otodom_id": "64862838",
+    "title": "Apartament Warszawa Mokotów przy SGH",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Filtry",
+      "street": "ul. Stefana Batorego"
+    },
+    "promoted_urls": true,
+    "price": 2100,
+    "rooms": 1,
+    "area": 17,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-zoliborz-ul-elblaska-48m-ID4krLn",
+    "otodom_id": "63978629",
+    "title": "Mieszkanie 3 pokoje Żoliborz ul. Elbląska 48m",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Sady Żoliborskie",
+      "street": "ul. Elbląska"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 3,
+    "area": 48,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/wyjatkowa-lokalizacja-ul-finlandzka-prywatnie-ID4ngaX",
+    "otodom_id": "64649071",
+    "title": "Wyjątkowa lokalizacja ul. Finlandzka, prywatnie.",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Saska Kępa",
+      "street": "ul. Finlandzka"
+    },
+    "promoted_urls": true,
+    "price": 3500,
+    "rooms": 1,
+    "area": 39,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bezposrednio-kawalerka-gorny-mokotow-ID4joPR",
+    "otodom_id": "63729047",
+    "title": "Bezpośrednio, kawalerka, Górny Mokotów",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Służewiec",
+      "street": "ul. Postępu"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 1,
+    "area": 30,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-mieszkanie-kawalerka-domaniewska-mordor-ID4ngPu",
+    "otodom_id": "64651584",
+    "title": "NOWE mieszkanie kawalerka - Domaniewska MORDOR",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Ksawerów",
+      "street": "ul. Domaniewska"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 1,
+    "area": 32,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-na-krzyzowki-os-riviera-park-zeran-ID49UWl",
+    "otodom_id": "61469115",
+    "title": "Mieszkanie na Krzyżówki os. Riviera Park, Żerań",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Żerań",
+      "street": "ul. Krzyżówki"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 2,
+    "area": 34,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/apartament-w-wilanowie-os-krolewska-sarmacka-ID40rBq",
+    "otodom_id": "59211452",
+    "title": "Apartament w Wilanowie. Oś Królewska | Sarmacka.",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Błonia Wilanowskie",
+      "street": "ul. Sarmacka"
+    },
+    "promoted_urls": true,
+    "price": 4000,
+    "rooms": 3,
+    "area": 95,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowoczesne-mieszkanie-z-balkonem-warszawa-ursynow-ID4ngBN",
+    "otodom_id": "64650735",
+    "title": "Nowoczesne mieszkanie z balkonem Warszawa Ursynów.",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wyczółki",
+      "street": "Pieskowa Skała"
+    },
+    "promoted_urls": true,
+    "price": 2900,
+    "rooms": 2,
+    "area": 32,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-osiedle-2-pokoje-ul-woronicza-ID4ltFz",
+    "otodom_id": "64224285",
+    "title": "Nowe osiedle | 2 pokoje | ul. Woronicza",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wyględów",
+      "street": "ul. Jana Pawła Woronicza"
+    },
+    "promoted_urls": true,
+    "price": 3560,
+    "rooms": 2,
+    "area": 36,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-70m2-ursus-niedzwiadek-3-pokoje-garaz-ID4oaJy",
+    "otodom_id": "64866480",
+    "title": "mieszkanie 70m2 Ursus Niedźwiadek, 3-pokoje, garaż",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Gołąbki",
+      "street": "ul. Władysława Hermana"
+    },
+    "promoted_urls": true,
+    "price": 4000,
+    "rooms": 3,
+    "area": 70,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokoje-bialej-floty-pets-friendly-parter-ID4mbzY",
+    "otodom_id": "64393074",
+    "title": "2 pokoje | Białej Floty | Pets friendly | parter",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wyględów",
+      "street": "ul. Białej Floty"
+    },
+    "promoted_urls": true,
+    "price": 3500,
+    "rooms": 2,
+    "area": 33,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/kawalerka-metro-marymont-najem-ID4o6g1",
+    "otodom_id": "64849273",
+    "title": "Kawalerka – Metro Marymont – Najem",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Sady Żoliborskie",
+      "street": "ul. ks. Jerzego Popiełuszki"
+    },
+    "promoted_urls": true,
+    "price": 2800,
+    "rooms": 1,
+    "area": 26,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/piekne-mieszkanie-na-zielonym-powislu-bezposrednio-ID4o60K",
+    "otodom_id": "64848326",
+    "title": "Piękne mieszkanie na zielonym Powiślu Bezpośrednio",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Solec",
+      "street": "Powiśle ul. Górnośląska"
+    },
+    "promoted_urls": true,
+    "price": 4200,
+    "rooms": 3,
+    "area": 47,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-mieszkanie-3min-od-metra-targowek-2-pokoje-ID4o9pH",
+    "otodom_id": "64861405",
+    "title": "Nowe mieszkanie 3min od Metra Targówek 2 pokoje",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Targówek Mieszkaniowy",
+      "street": "ul. Oszmiańska"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 2,
+    "area": 39,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-3-pokoje-ursynow-natolin-ID4o5TJ",
+    "otodom_id": "64847891",
+    "title": "Mieszkanie 3 pokoje Ursynów Natolin",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Natolin",
+      "street": "ul. Eugeniusza Lokajskiego"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 3,
+    "area": 60,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-po-generalnym-remoncie-na-mokotowie-ID4m2hf",
+    "otodom_id": "64357317",
+    "title": "Mieszkanie po generalnym remoncie na Mokotowie",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mokotów",
+      "street": "Wierzbno"
+    },
+    "promoted_urls": true,
+    "price": 3350,
+    "rooms": 2,
+    "area": 32,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/elegancka-kawalerka-metro-szwedzka-swps-kozminski-ID4iDOk",
+    "otodom_id": "63548284",
+    "title": "Elegancka Kawalerka, METRO Szwedzka,SWPS,Koźmiński",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Nowa Praga",
+      "street": "ul. Stalowa"
+    },
+    "promoted_urls": true,
+    "price": 3300,
+    "rooms": 2,
+    "area": 30,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/lux-2-pok-balkon-garaz-mokotow-bezposrednio-ID4aHya",
+    "otodom_id": "61656034",
+    "title": "lux, 2-pok., balkon, garaż, Mokotów - bezpośrednio",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stegny",
+      "street": "ul. Pory"
+    },
+    "promoted_urls": true,
+    "price": 4000,
+    "rooms": 2,
+    "area": 41,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bezposrednio-nowe-2-pokoje-40m-al-ken-ID34q4Q",
+    "otodom_id": "45382564",
+    "title": "BEZPOŚREDNIO NOWE 2 pokoje 40m Al.KEN",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Natolin",
+      "street": "al. Aleja Komisji Edukacji Narodowej"
+    },
+    "promoted_urls": true,
+    "price": 3300,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/4-pokojowe-mieszkanie-na-mokotowie-ID4obcx",
+    "otodom_id": "64868277",
+    "title": "4 pokojowe mieszkanie na Mokotowie",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stary Mokotów",
+      "street": "ul. Falęcka"
+    },
+    "promoted_urls": true,
+    "price": 8500,
+    "rooms": 4,
+    "area": 94,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/przytulne-i-widne-mieszkanie-z-balkonem-muranow-ID4o7co",
+    "otodom_id": "64852892",
+    "title": "Przytulne i widne mieszkanie z balkonem, Muranów",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Muranów",
+      "street": "ul. gen. Władysława Andersa"
+    },
+    "promoted_urls": true,
+    "price": 3300,
+    "rooms": 2,
+    "area": 39,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/kawalerka-blisko-centrum-bezposrednio-ID47uJF",
+    "otodom_id": "60891791",
+    "title": "Kawalerka blisko centrum, bezpośrednio",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Nowolipki",
+      "street": "ul. Smocza"
+    },
+    "promoted_urls": true,
+    "price": 2300,
+    "rooms": 1,
+    "area": 27,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/kawalerka-na-mokotowie-wolna-od-zaraz-ID4o64x",
+    "otodom_id": "64848561",
+    "title": "Kawalerka na Mokotowie-Wolna od Zaraz",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wierzbno",
+      "street": "ul. Jana Czeczota"
+    },
+    "promoted_urls": true,
+    "price": 2500,
+    "rooms": 1,
+    "area": 30,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-3-pok-warszawa-wilanow-ID4nJ53",
+    "otodom_id": "64760181",
+    "title": "Mieszkanie do wynajęcia 3 pok., Warszawa Wilanów",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Błonia Wilanowskie",
+      "street": "ul. Prymasa Augusta Hlonda 2"
+    },
+    "promoted_urls": true,
+    "price": 7800,
+    "rooms": 3,
+    "area": 75,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/metro-wawrzyszew-wygodna-kawalerka-2500ca-ID4o9f3",
+    "otodom_id": "64860745",
+    "title": "Metro Wawrzyszew - wygodna kawalerka 2500ca",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wrzeciono",
+      "street": "Wrzeciono/ Przy Agorze"
+    },
+    "promoted_urls": true,
+    "price": 2100,
+    "rooms": 1,
+    "area": 26,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bezposrednio-przestronny-apartament-klima-garaz-ID4o7gI",
+    "otodom_id": "64853160",
+    "title": "Bezpośrednio przestronny apartament - klima, garaż",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Bemowo",
+      "street": "Górce"
+    },
+    "promoted_urls": true,
+    "price": 7200,
+    "rooms": 4,
+    "area": 108,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/komfotrowy-apartment-do-zamieszkania-50m2-ID4o63r",
+    "otodom_id": "64848493",
+    "title": "Komfotrowy apartment do zamieszkania 50m2",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Solec",
+      "street": "ul. Solec 61a"
+    },
+    "promoted_urls": true,
+    "price": 5000,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/ciche-i-zadbane-2-pokojowe-z-czynszem-w-cenie-45m2-ID4kMM6",
+    "otodom_id": "64059398",
+    "title": "Ciche i zadbane 2 pokojowe z czynszem w cenie 45m2",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Włochy",
+      "street": "Nowe Włochy"
+    },
+    "promoted_urls": true,
+    "price": 2500,
+    "rooms": 2,
+    "area": 45,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/rozkladowe-mieszkanie-na-mokotowie-ID4hJ2a",
+    "otodom_id": "63330034",
+    "title": "Rozkładowe mieszkanie na Mokotowie.",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wierzbno",
+      "street": "ul. Stanisława Kierbedzia 8"
+    },
+    "promoted_urls": true,
+    "price": 3700,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pok-46-m2-balkon-garaz-przy-metrze-wilanowska-ID449iq",
+    "otodom_id": "60094394",
+    "title": "2 pok 46 m2, balkon, garaż, przy Metrze Wilanowska",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Ksawerów",
+      "street": "ul. Bukowińska 12"
+    },
+    "promoted_urls": true,
+    "price": 3500,
+    "rooms": 2,
+    "area": 46,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-2-pokojowe-na-mokotowie-obrzezna-ID4o9J5",
+    "otodom_id": "64862607",
+    "title": "mieszkanie 2 pokojowe na Mokotowie - Obrzeżna",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Służew",
+      "street": "ul. Obrzeżna"
+    },
+    "promoted_urls": true,
+    "price": 4150,
+    "rooms": 2,
+    "area": 45,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-2-pokoje-wilanow-od-zaraz-ID4o6dD",
+    "otodom_id": "64849125",
+    "title": "Mieszkanie 2 pokoje Wilanów od zaraz",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Błonia Wilanowskie",
+      "street": "al. Aleja Rzeczypospolitej"
+    },
+    "promoted_urls": true,
+    "price": 3700,
+    "rooms": 2,
+    "area": 51,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/150m-do-metrobemowo-2samodzielne-pokoje-nowe-meble-ID4hC8m",
+    "otodom_id": "63303510",
+    "title": "150m do MetroBemowo/2samodzielne pokoje/nowe meble",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Górce",
+      "street": "ul. Powstańców Śląskich 85"
+    },
+    "promoted_urls": true,
+    "price": 3100,
+    "rooms": 2,
+    "area": 42,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-do-wynajecia-na-ochocie-38mk-ID4o9y3",
+    "otodom_id": "64861923",
+    "title": "Mieszkanie do wynajęcia na Ochocie, 38mk",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Szczęśliwice",
+      "street": "ul. Bitwy Warszawskiej 1920 r."
+    },
+    "promoted_urls": true,
+    "price": 2600,
+    "rooms": 1,
+    "area": 38,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bielany-2-pokoje-nowe-budownictwo-od-zaraz-ID4o0Jc",
+    "otodom_id": "64828018",
+    "title": "Bielany, 2 pokoje, nowe budownictwo, od zaraz",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Chomiczówka",
+      "street": "ul. Renesansowa"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 2,
+    "area": 53,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-w-centrum-dwupokojowe-51-mkw-ID4nJ4l",
+    "otodom_id": "64760137",
+    "title": "mieszkanie w centrum, dwupokojowe, 51 mkw",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście",
+      "street": "Śródmieście Północne"
+    },
+    "promoted_urls": true,
+    "price": 3950,
+    "rooms": 2,
+    "area": 51,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokoje-na-chomiczowce-garaz-bezposrednio-ID3QZLC",
+    "otodom_id": "56959500",
+    "title": "2 pokoje na Chomiczówce, garaż, bezpośrednio",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Chomiczówka",
+      "street": "ul. Rodziny Połanieckich"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 2,
+    "area": 52,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-bemowo-ID4o7Fr",
+    "otodom_id": "64854693",
+    "title": "Mieszkanie Bemowo",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Górce",
+      "street": "ul. Górczewska 228"
+    },
+    "promoted_urls": true,
+    "price": 4000,
+    "rooms": 3,
+    "area": 63,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/na-wynajem-mieszkanie-warszawa-ursus-od-reki-ID4o7op",
+    "otodom_id": "64853637",
+    "title": "Na wynajem mieszkanie Warszawa Ursus od ręki",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Skorosze",
+      "street": "ul. Tomcia Palucha"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 2,
+    "area": 45,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokoje-55-m2-warszawa-wlochy-ul-fasolowa-ID44YbT",
+    "otodom_id": "60290033",
+    "title": "2 pokoje, 55 m2, Warszawa Włochy, ul. Fasolowa",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stare Włochy",
+      "street": "ul. Fasolowa"
+    },
+    "promoted_urls": true,
+    "price": 3200,
+    "rooms": 2,
+    "area": 55,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-studio-zielony-zoliborz-garaz-ID34Nx0",
+    "otodom_id": "45472722",
+    "title": "Mieszkanie STUDIO Zielony Żoliborz, GARAŻ",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście Północne",
+      "street": "ul. Ludwika Rydygiera 11"
+    },
+    "promoted_urls": true,
+    "price": 3100,
+    "rooms": 1,
+    "area": 38,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/kawalerka-18-m2-ul-wrzeciono-3-metro-wawrzyszew-ID4oai7",
+    "otodom_id": "64864779",
+    "title": "Kawalerka 18 m2, ul. Wrzeciono 3, metro Wawrzyszew",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wrzeciono",
+      "street": "Wrzecono 3"
+    },
+    "promoted_urls": true,
+    "price": 2500,
+    "rooms": 1,
+    "area": 18,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/piekna-kawalerka-w-centrum-warszawy-ID4o97s",
+    "otodom_id": "64860274",
+    "title": "Piękna kawalerka w centrum Warszawy!",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście",
+      "street": "Śródmieście Północne"
+    },
+    "promoted_urls": true,
+    "price": 2800,
+    "rooms": 1,
+    "area": 27,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/dizajnerskie-biuro-przy-placu-konstytucji-ID4o990",
+    "otodom_id": "64860370",
+    "title": "Dizajnerskie biuro przy Placu Konstytucji!",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście",
+      "street": "Śródmieście Północne"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 2,
+    "area": 30,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/nowe-mieszkanie-39-m-nowy-ursus-ID4kWMd",
+    "otodom_id": "64094001",
+    "title": "NOWE mieszkanie 39 m nowy Ursus",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Ursus",
+      "street": "Szamoty"
+    },
+    "promoted_urls": true,
+    "price": 2750,
+    "rooms": 2,
+    "area": 39,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-45m2-garaz-warszawa-wlochy-ul-slaska-ID42MSC",
+    "otodom_id": "59769898",
+    "title": "Mieszkanie 45m2+garaż Warszawa Włochy, ul. Śląska",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stare Włochy",
+      "street": "ul. Śląska 6"
+    },
+    "promoted_urls": true,
+    "price": 2950,
+    "rooms": 2,
+    "area": 45,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/wyjatkowe-mieszkanie-przy-hali-mirowskiej-ID4o98z",
+    "otodom_id": "64860343",
+    "title": "Wyjątkowe Mieszkanie przy Hali Mirowskiej!",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście",
+      "street": "Śródmieście Północne"
+    },
+    "promoted_urls": true,
+    "price": 3700,
+    "rooms": 2,
+    "area": 42,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/wynajme-zoliborz-artystyczny-ul-jedrusik-9-ID4o7lt",
+    "otodom_id": "64853455",
+    "title": "Wynajmę Żoliborz Artystyczny, ul Jędrusik 9",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Sady Żoliborskie",
+      "street": "ul. Kaliny Jędrusik"
+    },
+    "promoted_urls": true,
+    "price": 3400,
+    "rooms": 2,
+    "area": 39,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/wilanow-2-pokoje-ul-branickiego-bezposrednio-ID4hDqh",
+    "otodom_id": "63308465",
+    "title": "Wilanów, 2 pokoje - ul. Branickiego, bezpośrednio",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Błonia Wilanowskie",
+      "street": "ul. Adama Branickiego"
+    },
+    "promoted_urls": true,
+    "price": 3650,
+    "rooms": 2,
+    "area": 53,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-z-garazem-i-ogrodkiem-ID4ob9k",
+    "otodom_id": "64868078",
+    "title": "Mieszkanie z garażem i ogródkiem",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Ursynów",
+      "street": "Grabów"
+    },
+    "promoted_urls": true,
+    "price": 3600,
+    "rooms": 2,
+    "area": 62,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/dobra-lokalizacja-cisza-spokoj-ID4nzYF",
+    "otodom_id": "64725189",
+    "title": "Dobra lokalizacja, cisza, spokój.",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Sielce",
+      "street": "ul. Stępińska"
+    },
+    "promoted_urls": true,
+    "price": 3700,
+    "rooms": 2,
+    "area": 45,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/dwupokojowe-mieszkanie-na-warszawskim-powislu-ID4o8wN",
+    "otodom_id": "64857939",
+    "title": "Dwupokojowe Mieszkanie na Warszawskim Powiślu",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Solec",
+      "street": "ul. Górnośląska"
+    },
+    "promoted_urls": true,
+    "price": 3300,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/2-pokojowe-grzybowska-srodmiescie-warszawa-ID4o8EJ",
+    "otodom_id": "64858493",
+    "title": "2-pokojowe Grzybowska Śródmieście, Warszawa",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście Północne",
+      "street": "ul. Grzybowska 3"
+    },
+    "promoted_urls": true,
+    "price": 4900,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/dwa-pokoje-browary-warszawskie-pets-friendly-ID4mVrf",
+    "otodom_id": "64573201",
+    "title": "Dwa pokoje Browary Warszawskie PETS FRIENDLY",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście",
+      "street": "Śródmieście Północne"
+    },
+    "promoted_urls": true,
+    "price": 4960,
+    "rooms": 2,
+    "area": 47,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/wynajme-apartament-warszawa-twarda-ID4mEpm",
+    "otodom_id": "64503892",
+    "title": "Wynajmę apartament Warszawa Twarda",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Śródmieście Północne",
+      "street": "ul. Twarda 4"
+    },
+    "promoted_urls": true,
+    "price": 15000,
+    "rooms": 2,
+    "area": 57,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bezposrednio-ekskluzywna-kawalerka-200m-lazienki-ID4o9ZC",
+    "otodom_id": "64863632",
+    "title": "*BEZPOŚREDNIO* Ekskluzywna Kawalerka/200m Łazienki",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Sielce",
+      "street": "ul. Sielecka 52"
+    },
+    "promoted_urls": true,
+    "price": 2990,
+    "rooms": 1,
+    "area": 26,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-4-pokoje-bielany-ID4o9qW",
+    "otodom_id": "64861481",
+    "title": "mieszkanie 4 pokoje Bielany",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Chomiczówka",
+      "street": "ul. Bartosza Głowackiego"
+    },
+    "promoted_urls": true,
+    "price": 3000,
+    "rooms": 4,
+    "area": 84,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/piekny-widok-na-zielen-50m-kw-taras-garaz-ID4o97X",
+    "otodom_id": "64860305",
+    "title": "Piękny widok na zieleń / 50m.kw. / Taras / Garaż",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Ulrychów",
+      "street": "ul. Jana Olbrachta"
+    },
+    "promoted_urls": true,
+    "price": 3700,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-towarowa-blisko-ronda-daszynskiego-ID4o5Ei",
+    "otodom_id": "64846934",
+    "title": "Mieszkanie, Towarowa, Blisko Ronda Daszyńskiego",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Mirów",
+      "street": "ul. Towarowa"
+    },
+    "promoted_urls": true,
+    "price": 3700,
+    "rooms": 2,
+    "area": 50,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/piekne-klimatyczne-ciche-mieszkanie-metro-natolin-ID4obkY",
+    "otodom_id": "64868800",
+    "title": "Piękne klimatyczne ciche mieszkanie metro Natolin",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Natolin",
+      "street": "ul. Jana Żabińskiego"
+    },
+    "promoted_urls": true,
+    "price": 5500,
+    "rooms": 3,
+    "area": 53,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/dwupokojowe-mieszkanie-blisko-stacji-metra-m2-ID4o9FD",
+    "otodom_id": "64862393",
+    "title": "Dwupokojowe mieszkanie blisko stacji metra M2",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Targówek",
+      "street": "Targówek Mieszkaniowy"
+    },
+    "promoted_urls": true,
+    "price": 3300,
+    "rooms": 2,
+    "area": 40,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mieszkanie-kawalerka-32m-waclawa-tokarza-targowek-ID4o6bH",
+    "otodom_id": "64849005",
+    "title": "Mieszkanie kawalerka 32m Wacława Tokarza Targówek",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Bródno-Podgrodzie",
+      "street": "ul. Wacława Tokarza"
+    },
+    "promoted_urls": true,
+    "price": 2700,
+    "rooms": 1,
+    "area": 32,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/urk-lux-2-pokojowe-bez-prowizji-0-garaz-w-cenie-ID4o63T",
+    "otodom_id": "64848521",
+    "title": "URK Lux 2 pokojowe | Bez prowizji 0% Garaż w cenie",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Jelonki Północne",
+      "street": "ul. Człuchowska"
+    },
+    "promoted_urls": true,
+    "price": 3300,
+    "rooms": 2,
+    "area": 39,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/niepowtarzalne-w-mokotowskiej-kamienicy-ID4o1TN",
+    "otodom_id": "64832519",
+    "title": "Niepowtarzalne w mokotowskiej kamienicy!",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stary Mokotów",
+      "street": "ul. Ludwika Narbutta"
+    },
+    "promoted_urls": true,
+    "price": 8000,
+    "rooms": 3,
+    "area": 82,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/atrakcyjne-2-pokojowe-mieszkanie-wilanow-ID4oaVV",
+    "otodom_id": "64867310",
+    "title": "Atrakcyjne 2 pokojowe mieszkanie Wilanów",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Błonia Wilanowskie",
+      "street": "ul. Sarmacka"
+    },
+    "promoted_urls": true,
+    "price": 3100,
+    "rooms": 2,
+    "area": 54,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/ciche-jasne-mieszkanie-49m-stary-mokotow-ID4kLXz",
+    "otodom_id": "64056265",
+    "title": "Ciche, jasne mieszkanie 49m Stary Mokotów",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Wierzbno",
+      "street": "ul. Adama Naruszewicza"
+    },
+    "promoted_urls": true,
+    "price": 3900,
+    "rooms": 2,
+    "area": 49,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/cicha-kawalerka-22-m2-ochota-ul-szczesliwicka-ID4o79D",
+    "otodom_id": "64852721",
+    "title": "Cicha kawalerka 22 m2, Ochota, ul. Szczęśliwicka",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Stara Ochota",
+      "street": "ul. Szczęśliwicka"
+    },
+    "promoted_urls": true,
+    "price": 2500,
+    "rooms": 1,
+    "area": 22,
+    "estate_agency": "biuro nieruchomości "
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/mokotow-bobrowiecka-53-m2-jasne-msc-parkingowe-ID46wZq",
+    "otodom_id": "60658284",
+    "title": "Mokotów, Bobrowiecka,53 m2, jasne, msc. parkingowe",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Sielce",
+      "street": "ul. Bobrowiecka"
+    },
+    "promoted_urls": true,
+    "price": 3500,
+    "rooms": 2,
+    "area": 53,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/bezposrednio-mokotow-kawalerka-po-remoncie-ID43vKW",
+    "otodom_id": "59946245",
+    "title": "BEZPOŚREDNIO | MOKOTÓW | KAWALERKA | PO REMONCIE",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Sielce",
+      "street": "ul. Górska"
+    },
+    "promoted_urls": true,
+    "price": 2550,
+    "rooms": 1,
+    "area": 30,
+    "estate_agency": "prywatny"
+  },
+  {
+    "url": "http://www.otodom.pl/pl/oferta/metro-wilanowska-ID4o6dk",
+    "otodom_id": "64849106",
+    "title": "Metro Wilanowska",
+    "localization": {
+      "province": "mazowieckie",
+      "city": "Warszawa",
+      "district": "Służew",
+      "street": "ul. Skrzetuskiego"
+    },
+    "promoted_urls": true,
+    "price": 8950,
+    "rooms": 4,
+    "area": 117,
+    "estate_agency": "prywatny"
+  }
+]

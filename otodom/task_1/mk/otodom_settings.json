@@ -1,0 +1,10 @@
+{
+	"base_url": "https://www.otodom.pl/",
+	"price_min": "1000",
+	"price_max": "3000",
+    "province" : "mazowieckie",
+	"city": "warszawa",
+	"property_type": "mieszkanie",
+	"only_for_sale": false,
+	"only_for_rent": true
+}
