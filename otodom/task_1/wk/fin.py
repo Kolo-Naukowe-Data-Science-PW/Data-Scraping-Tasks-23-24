@@ -12,8 +12,7 @@ from generate_link import generate_link
 def scrape_single_record(record):
     record_dict = {}
 
-    record_dict["title"] = record.find(
-        "span", {"data-cy": "listing-item-title"}).string
+    record_dict["title"] = record.find("span", {"data-cy": "listing-item-title"}).string
 
     loc = ""
     tags = record.find_all("p")
@@ -33,30 +32,35 @@ def scrape_single_record(record):
 
     record_dict["localization"] = loc
 
-    record_dict["promoted"] = True if len(
-        record.find_all("p", string="Podbite")) > 0 else False
+    record_dict["promoted"] = (
+        True if len(record.find_all("p", string="Podbite")) > 0 else False
+    )
 
     regex = re.compile("zł")
     zl = record.find_all(string=regex, title=None)
     if len(zl) > 1:
-        record_dict["price"] = (zl[0].string + ", " + zl[1].string).replace(u"\xa0", u" ")
+        record_dict["price"] = (zl[0].string + ", " + zl[1].string).replace("\xa0", " ")
     else:
         record_dict["price"] = ""
 
     regex = re.compile("^[0-9].*pok")
-    if not record.find("span", title=None, string=regex):
-        print(record.prettify())
     record_dict["rooms"] = int(
-        re.findall("[0-9]+", record.find("span", title=None, string=regex).string)[0])
+        re.findall("[0-9]+", record.find("span", title=None, string=regex).string)[0]
+    )
 
     regex = re.compile(".*[^zł/]m²")
-    record_dict["area"] = int(float(record.find("span", title=None, string=regex)
-                                    .string[:-3]
-                                    .replace(u"\xa0", u"")
-                                    .replace(",", ".")))
+    record_dict["area"] = int(
+        float(
+            record.find("span", title=None, string=regex)
+            .string[:-3]
+            .replace(u"\xa0", u"")
+            .replace(",", ".")
+        )
+    )
 
-    record_dict["estate_agency"] = False if len(
-        record.find_all("p", string="Oferta prywatna")) > 0 else True
+    record_dict["estate_agency"] = (
+        False if len(record.find_all("p", string="Oferta prywatna")) > 0 else True
+    )
 
     return record_dict
 
@@ -64,7 +68,8 @@ def scrape_single_record(record):
 if __name__ == "__main__":
     url = generate_link()
     headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"}
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36"
+    }
     response = requests.get(url, headers=headers)
     doc = BeautifulSoup(response.text, "html.parser")
 
@@ -95,7 +100,7 @@ if __name__ == "__main__":
             for i in range(0, len(records)):
                 record_dict = {
                     "url": "https://www.otodom.pl" + listings_ids[i]["href"],
-                    "otodom_id": re.findall("ID(.*)", listings_ids[i]["href"])[0]
+                    "otodom_id": re.findall("ID(.*)", listings_ids[i]["href"])[0],
                 }
                 record_dict.update(scrape_single_record(records[i]))
                 scrapped_data.append(record_dict)
