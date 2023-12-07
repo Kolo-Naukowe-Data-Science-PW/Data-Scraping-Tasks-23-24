@@ -16,28 +16,18 @@ def generate_link():
 
     # property type
     prop_type = settings["property_type"]
-    if prop_type != "None":
-        if prop_type == "mieszkania": 
-            url += "mieszkanie/"
-        elif prop_type == "kawalerki": 
-            url += "kawalerka/"
-        elif prop_type == "domy": 
-            url += "dom/"
-        elif prop_type == "inwestycje": 
-            url += "inwestycja/"
-        elif prop_type == "pokoje": 
-            url += "pokoj/"
-        elif prop_type == "dzialki": 
-            url += "dzialka/"
-        elif prop_type == "lokale_uzytkowe": 
-            url += "lokal/"
-        elif prop_type == "hale_i_magazyny": 
-            url += "haleimagazyny/"
-        elif prop_type == "garaze": 
-            url += "garaz/"
-        else:
-            print("invalid value in [property_type] in settings.json!")
-            sys.exit(1)
+    mapping = {
+        "mieszkania": "mieszkanie", 
+        "kawalerki": "kawalerka",
+        "domy": "dom",
+        "inwestycje": "inwestycja",
+        "pokoje": "pokoj",
+        "dzialki": "dzialka",
+        "lokale_uzytkowe": "lokal",
+        "hale_i_magazyny": "haleimagazyny",
+        "garaze": "garaz",
+    }
+    url += mapping.get(prop_type, "") + "/"
 
     # province
     province = settings["province"]
