@@ -12,7 +12,7 @@ def generate_link():
     # rent/sale
     rent_sale = settings["for_sale_or_rent"]
     if rent_sale != "None":
-        url += (rent_sale + "/")
+        url += rent_sale + "/"
 
     # property type
     prop_type = settings["property_type"]
@@ -45,27 +45,27 @@ def generate_link():
     if "-" in province:
         province = province.replace("-", "--")
     if province != "None":
-        url += (province + "/")
+        url += province + "/"
 
     # city
     city = settings["city"]
     if city != "None":
-        url += (city)
+        url += city
 
     url += "?"
 
     # distance_radius
     distance = settings["distance_radius"]
     if distance != "None":
-        url += ("?distanceRadius=" + str(distance))
+        url += "?distanceRadius=" + str(distance)
 
     # price
     min_p = settings["price_min"]
     max_p = settings["price_max"]
     if min_p != "None":
-        url += ("&priceMin=" + str(min_p))
+        url += "&priceMin=" + str(min_p)
     if max_p != "None":
-        url += ("&priceMax=" + str(max_p))
+        url += "&priceMax=" + str(max_p)
 
     return url
 
