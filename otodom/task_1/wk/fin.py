@@ -53,7 +53,7 @@ def scrape_single_record(record):
         float(
             record.find("span", title=None, string=regex)
             .string[:-3]
-            .replace(u"\xa0", u"")
+            .replace("\xa0", "")
             .replace(",", ".")
         )
     )
@@ -110,5 +110,6 @@ if __name__ == "__main__":
     print("Scrapping completed : ~ D")
     with open("db.json", "w", encoding="utf-8") as file:
         json.dump(scrapped_data, file, ensure_ascii=False, indent=4)
+        file.write("\n")
 
     print("Scapped data saved in db.json")
