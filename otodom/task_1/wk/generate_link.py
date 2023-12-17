@@ -1,5 +1,4 @@
 import json
-import sys
 
 
 def generate_link():
@@ -17,7 +16,7 @@ def generate_link():
     # property type
     prop_type = settings["property_type"]
     mapping = {
-        "mieszkania": "mieszkanie", 
+        "mieszkania": "mieszkanie",
         "kawalerki": "kawalerka",
         "domy": "dom",
         "inwestycje": "inwestycja",
@@ -42,21 +41,22 @@ def generate_link():
         url += city
 
     url += "?"
+    params = {}
 
     # distance_radius
     distance = settings["distance_radius"]
     if distance != "None":
-        url += "?distanceRadius=" + str(distance)
+        params["distanceRadius"] = str(distance)
 
     # price
     min_p = settings["price_min"]
     max_p = settings["price_max"]
     if min_p != "None":
-        url += "&priceMin=" + str(min_p)
+        params["priceMin"] = str(min_p)
     if max_p != "None":
-        url += "&priceMax=" + str(max_p)
+        params["priceMax"] = max_p
 
-    return url
+    return url, params
 
 
 if __name__ == "__main__":
