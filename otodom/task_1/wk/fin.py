@@ -17,10 +17,7 @@ HEADERS = {
 def scrape_single_record(record):
     record_dict = {}
 
-    record_dict["title"] = record.find(
-        "span",
-        {"data-cy": "listing-item-title"}
-    ).string
+    record_dict["title"] = record.find("span", {"data-cy": "listing-item-title"}).string
 
     loc = ""
     tag = record.find_all("p", {"title": True})[0]
@@ -53,8 +50,7 @@ def scrape_single_record(record):
 
     regex = re.compile("^[0-9].*pok")
     record_dict["rooms"] = int(
-        re.findall("[0-9]+",
-                   record.find("span", title=None, string=regex).string)[0]
+        re.findall("[0-9]+", record.find("span", title=None, string=regex).string)[0]
     )
 
     regex = re.compile(".*[^zł/]m²")
@@ -67,8 +63,7 @@ def scrape_single_record(record):
         )
     )
 
-    estate_agency = record.find_all("span",
-                                    {"data-testid": "listing-item-owner-name"})
+    estate_agency = record.find_all("span", {"data-testid": "listing-item-owner-name"})
     record_dict["estate_agency"] = (
         estate_agency[0].string if len(estate_agency) > 0 else ""
     )
@@ -88,15 +83,20 @@ if __name__ == "__main__":
     pages_n = int(re.findall(regex, result)[0])
 
     scrapped_data = []
-    for i in range(1, pages_n+1):
+    for i in range(1, pages_n + 1):
         url = url + "?page=" + str(i)
         response = requests.get(url, headers=HEADERS)
-        if str(response.status_code)[0] == '4':
+        if str(response.status_code)[0] == "4":
             with open("db.json", "w", encoding="utf-8") as file:
                 json.dump(scrapped_data, file, ensure_ascii=False, indent=4)
             print("Already scrapped data saved in db.json")
-            print("Client error" + str(response.status_code) +
-                  "occured on page " + str(i) + ". Aborting.")
+            print(
+                "Client error"
+                + str(response.status_code)
+                + "occured on page "
+                + str(i)
+                + ". Aborting."
+            )
             sys.exit(1)
         else:
             print(f"Scrapping {i}/{pages_n} page...")
@@ -108,10 +108,8 @@ if __name__ == "__main__":
 
             for i in range(0, len(records)):
                 record_dict = {
-                    "url":
-                        "https://www.otodom.pl" + listings_ids[i]["href"],
-                    "otodom_id":
-                        re.findall("ID(.*)", listings_ids[i]["href"])[0],
+                    "url": "https://www.otodom.pl" + listings_ids[i]["href"],
+                    "otodom_id": re.findall("ID(.*)", listings_ids[i]["href"])[0],
                 }
                 record_dict.update(scrape_single_record(records[i]))
                 scrapped_data.append(record_dict)
