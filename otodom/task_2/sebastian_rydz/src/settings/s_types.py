@@ -1,6 +1,23 @@
 from enum import Enum
 
 
+class PropertyType(Enum):
+    FLAT = "mieszkanie"
+    STUDIO = "kawalerka"
+    HOUSE = "dom"
+    INVESTMENT = "inwestycja"
+    ROOM = "pokoj"
+    PLOT = "dzialka"
+    VENUE = "lokal"
+    MAGAZINE = "haleimagazyny"
+    GARAGE = "garaz"
+
+
+class AuctionType(Enum):
+    SALE = "sprzedaz"
+    RENT = "wynajem"
+
+
 class Defaults:
     """
     A class that provides default values for the settings used by the application.
@@ -23,22 +40,5 @@ class Defaults:
     DEFAULT_PROVINCE = "mazowieckie"
     DEFAULT_CITY = "warszawa"
     DEFAULT_DISTRICT = None
-    DEFAULT_PROPERTY_TYPE = "mieszkanie"
-    DEFAULT_AUCTION_TYPE = "sprzedaz"
-
-
-class PropertyType(Enum):
-    FLAT = "mieszkanie"
-    STUDIO = "kawalerka"
-    HOUSE = "dom"
-    INVESTMENT = "inwestycja"
-    ROOM = "pokoj"
-    PLOT = "dzialka"
-    VENUE = "lokal"
-    MAGAZINE = "haleimagazyny"
-    GARAGE = "garaz"
-
-
-class AuctionType(Enum):
-    SALE = "sprzedaz"
-    RENT = "wynajem"
+    DEFAULT_PROPERTY_TYPE = PropertyType.FLAT
+    DEFAULT_AUCTION_TYPE = AuctionType.SALE

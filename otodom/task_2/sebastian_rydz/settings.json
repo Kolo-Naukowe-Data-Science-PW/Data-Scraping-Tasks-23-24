@@ -1,13 +1,13 @@
 {
-	"base_url": "https://www.otodom.pl",
     "price": {
-        "min": 1000,
-        "max": 5000
+        "min": 0,
+        "max": 10000000
     },
-	"province" : "kujawsko-pomorskie",
-	"city": "torun",
+    "district": "",
+	"province" : "warmińsko-mazurskie",
+	"city": "elblag",
 	"property_type": "flat",
-	"sale_or_rent": "rent",
+	"auction_type": "sale",
 	"_comments": {
         "property_type": "Can be: 'flat', 'studio', 'house', 'investment', 'room', 'plot', 'venue', 'magazine', 'garage'",
         "sale_or_rent": "Can be: 'sale', 'rent'"

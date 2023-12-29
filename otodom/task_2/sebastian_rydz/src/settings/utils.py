@@ -1,5 +1,5 @@
-from s_types import AuctionType
-from s_types import PropertyType
+from settings.s_types import AuctionType
+from settings.s_types import PropertyType
 
 AUCTION_TYPE_MAPPING = {
     "sale": AuctionType.SALE,

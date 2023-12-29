@@ -1,12 +1,12 @@
 import json
 import logging
 
-from s_types import AuctionType
-from s_types import Defaults
-from s_types import PropertyType
-from utils import get_auction_type
-from utils import get_property_type
-from utils import replace_polish_characters
+from settings.s_types import AuctionType
+from settings.s_types import Defaults
+from settings.s_types import PropertyType
+from settings.utils import get_auction_type
+from settings.utils import get_property_type
+from settings.utils import replace_polish_characters
 
 AVAILABLE_PROVINCES = [
     "dolnoslaskie",
@@ -68,7 +68,7 @@ class Settings:
         try:
             with open("settings.json", "r", encoding="utf-8") as f:
                 settings = json.load(f)
-                self.base_url = self.__init_base_url(settings)
+                self.base_url = Defaults.DEFAULT_URL
                 self.price_min, self.price_max = self.__init_price(settings)
                 self.province = self.__init_province(settings)
                 self.city = self.__init_city(settings)
@@ -82,25 +82,6 @@ class Settings:
                 e,
             )
             self.set_default()
-
-    @staticmethod
-    def __init_base_url(settings: dict) -> str:
-        """
-        Initialize the base URL from the settings dictionary.
-
-        If the base URL is not a string or does not start with "https://www.otodom.pl",
-        a warning message is logged and the default base URL is returned.
-
-        :param settings: A dictionary containing the settings
-        :return: The base URL
-        """
-        base_url = settings.get("base_url")
-        if not isinstance(base_url, str) or not base_url.startswith(
-            "https://www.otodom.pl"
-        ):
-            logging.warning("Base url is not correct. Base url is set to default")
-            return Defaults.DEFAULT_URL
-        return base_url
 
     @staticmethod
     def __init_price(settings: dict) -> (int, int):
@@ -159,6 +140,7 @@ class Settings:
         if province not in AVAILABLE_PROVINCES:
             logging.warning("Province is not correct. Province is set to default")
             return Defaults.DEFAULT_PROVINCE
+        province = province.replace("-", "--")
         return province
 
     @staticmethod
@@ -190,7 +172,7 @@ class Settings:
         :return: The district
         """
         district = settings.get("district")
-        if not isinstance(district, str):
+        if not isinstance(district, str) or district == "":
             logging.warning("District is not correct. District is set to default")
             return Defaults.DEFAULT_DISTRICT
         return replace_polish_characters(district)
@@ -262,8 +244,3 @@ class Settings:
         self.district = Defaults.DEFAULT_DISTRICT
         self.property_type = Defaults.DEFAULT_PROPERTY_TYPE
         self.auction_type = Defaults.DEFAULT_AUCTION_TYPE
-
-
-if __name__ == "__main__":
-    settings = Settings()
-    print(settings.__dict__)
