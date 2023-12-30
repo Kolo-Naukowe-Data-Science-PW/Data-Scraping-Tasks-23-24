@@ -1,0 +1,10 @@
+{
+	"base_url": "https://www.otodom.pl/pl/wyniki/",
+	"price_min": "None",
+	"price_max": "None",
+    "province": "mazowieckie",
+	"city": "warszawa",
+    "distance_radius": "None",
+	"property_type": "mieszkania",
+    "for_sale_or_rent": "sprzedaz"
+}
