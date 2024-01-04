@@ -3,9 +3,9 @@
         "min": 0,
         "max": 10000000
     },
-    "district": "",
-	"province" : "warmińsko-mazurskie",
-	"city": "elblag",
+    "district": "wola",
+	"province" : "warszawa",
+	"city": "warszawa",
 	"property_type": "flat",
 	"auction_type": "sale",
 	"_comments": {

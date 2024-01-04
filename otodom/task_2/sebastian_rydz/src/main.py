@@ -3,4 +3,4 @@ from crawler import Crawler
 if "__main__" == __name__:
     crawler = Crawler()
     crawler.start()
-    crawler.save_to_file("listings.json")
+    crawler.to_csv_file("listings.csv")

@@ -1,10 +1,12 @@
 import concurrent.futures
+import csv
 import json
 import logging
 
 import requests
 from bs4 import BeautifulSoup
 from crawler.utils import remove_duplicated_listings
+from listing import DataExtractionError
 from listing import Listing
 from settings import Settings
 
@@ -23,8 +25,6 @@ class Crawler:
     def __init__(self):
         """
         Initialize the crawler.
-
-        :param settings: The settings
         """
         self.settings = Settings()
         self.params = self.generate_params()
@@ -88,8 +88,9 @@ class Crawler:
         params = self.params.copy()
         params["page"] = page
         response = requests.get(
-            url=self.generate_search_url(), params=params, headers=HEADERS
+            url=self.generate_search_url(), params=params, headers=HEADERS, timeout=10
         )
+        print(f"Extracting listings from page {page}...")
         soup = BeautifulSoup(response.content, "html.parser")
         listings = soup.select("li[data-cy=listing-item]")
         return listings
@@ -99,12 +100,20 @@ class Crawler:
         Extract the data from the given listing.
 
         :param listing: The listing
+        :raises DataExtractionError: If the data extraction fails
         :return: The data from the listing
         """
-        response = requests.get(url=listing.link, headers=HEADERS)
-        soup = BeautifulSoup(response.content, "html.parser")
-        listing.extract_data_from_page(soup)
-        return listing
+        max_retries = 3
+        while max_retries > 0:
+            response = requests.get(url=listing.link, headers=HEADERS)
+            print(f"Extracting data from {listing.link}...")
+            soup = BeautifulSoup(response.content, "html.parser")
+            if not listing.informational_json_exists(soup):
+                max_retries -= 1
+                continue
+            listing.extract_data_from_page(soup)
+            return listing
+        raise DataExtractionError(url=listing.link)
 
     def get_listings(self) -> list:
         """
@@ -114,9 +123,9 @@ class Crawler:
         """
         return self.listings
 
-    def save_to_file(self, filename: str) -> None:
+    def to_json_file(self, filename: str) -> None:
         """
-        Save the listings to a file.
+        Save the listings to a json file.
 
         :param filename: The name of the file
         """
@@ -128,6 +137,21 @@ class Crawler:
                 indent=4,
             )
 
+    def to_csv_file(self, filename: str) -> None:
+        """
+        Save the listings to a csv file.
+
+        :param filename: The name of the file
+        """
+        data = [obj.__dict__ for obj in self.listings]
+
+        keys = data[0].keys()
+
+        with open(filename, "w", newline="", encoding="utf-8") as output_file:
+            dict_writer = csv.DictWriter(output_file, keys)
+            dict_writer.writeheader()
+            dict_writer.writerows(data)
+
     def start(self) -> None:
         """
         Start the crawler.
@@ -135,14 +159,14 @@ class Crawler:
         The crawler starts crawling the website and extracting the data.
         """
         pages = self.count_pages()
-        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        with concurrent.futures.ThreadPoolExecutor(max_workers=15) as executor:
             listings = list(
                 executor.map(self.extract_listings_from_page, range(1, pages + 1))
             )
 
         listings = remove_duplicated_listings(listings)
-        listings = {Listing(listing) for listing in listings}
-        with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
+        listings = {Listing(listing) for listing in listings if listing is not None}
+        with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
             listings = list(executor.map(self.extract_listing_data, listings))
 
         self.listings = listings
